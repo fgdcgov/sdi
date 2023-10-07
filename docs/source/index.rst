@@ -14,12 +14,11 @@ Contents
 --------
 
 .. toctree::
-
-   STANDARDS
+   :caption: 🔌 STANDARDS
    
    FGDC-STD-009-1999
 
-   RESOURCES
+   :caption: 📊 RESOURCES
    acronyms
    api
    usage
