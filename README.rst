@@ -1,7 +1,7 @@
-Template for the Read the Docs tutorial
+FGDC Standards 
 =======================================
 
-This GitHub template includes fictional Python library
+This GitHub provides information on FGDC Standards
 with some basic Sphinx docs.
 
 Read the tutorial here:
