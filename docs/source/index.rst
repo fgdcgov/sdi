@@ -15,6 +15,11 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   STANDARDS
+   
    FGDC-STD-009-1999
+
+   RESOURCES
+   acronyms
+   api
+   usage
