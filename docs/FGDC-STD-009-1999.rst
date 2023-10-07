@@ -4,7 +4,7 @@ Content Standard for Remote Sensing Swath Data
 INTRODUCTION
 -------------------------------
 
-Objective
+1.1 Objective
 -------------------------------
 
 The primary objective of this standard is to define the minimum content for remote sensing swath data (hereinafter called the swath data model).  This content standard will provide a solid basis for developing interoperable data formats for remote sensing swath data.
@@ -14,3 +14,38 @@ The standard has the following goals:
 2.	To encourage interuse of swath and swath-like data through implementation of transfer standards within the conceptual framework,
 3.	To involve non-federal organizations in the development of this standard, thereby encouraging broad applications.
 
+1.2 Scope
+-------------------------------
+The standard defines the minimal content requirements for a remote sensing swath and the relationships among its individual components.  It also discusses the treatment of optional supporting information within the swath model.  In the classification system of the Federal Geographic Data Committee Standards Reference Model (FGDC 1997), this standard is a Data Content Standard.  Data content standards provide semantic definitions of a set of objects and of the relationships among them.  This standard defines a concept called a swath that provides a means for associating certain kinds of remote sensing data with their geolocation.  To that end, it defines those items of information content that are necessary for the realization of the swath concept.  As a content standard, the Content Standard for Remote Sensing Swath Data does not specify encoding.  Encoding may be specified at some future time by a separate standard or standards.
+
+The standard specifies only the information that varies with time or from pixel to pixel.    Information that is constant for all data points, such as the axes about which platform roll, pitch, and yaw are measured or the orientation of individual instruments relative to the platform, would be specified elsewhere, for example, in a content standard for remote sensing metadata.
+
+1.3		Applicability
+-------------------------------
+The swath data standard for remote sensing supports the development of the National Spatial Data Infrastructure (NSDI) by providing a common framework for the organization of a wide range of remotely sensed data.  The standard will be particularly useful for data from scanning, profiling, staring, or push-broom type remote sensing instruments, whether they be ground based, shipboard, airborne, or spaceborne.  It is intended for use by organizations that produce remote sensing data.  The standard addresses the content of the data that are produced by such an organization, as when populating an archive, not the requirements on data to fulfill particular user needs.
+
+1.4		Related Standards
+-------------------------------
+The Content Standard for Remote Sensing Swath Data is an outgrowth of standards work done for the Earth Observing System Data and Information System (EOSDIS), part of the Earth Observing System (EOS), under the National Aeronautics and Space Administration (NASA) Mission to Planet Earth.  As such, it draws heavily on the NASA EOSDIS concepts and data model for remote sensing swath data, described in a Hughes Applied Information Systems (HAIS) White Paper  (HAIS 1995), which, in turn, had been developed from existing standards.  The NASA model specifies the minimal content requirements for a swath and the relationships among its individual components.  The EOSDIS project has developed an encoding mechanism and a set of software tools, described in Raytheon Systems Corporation (RSC) papers (RSC 1999a, 1999b) based on that model.  Although those tools are related to this content standard, the standard does not depend upon them.  In fact, the tools rely on the existing EOSDIS data model. 
+
+The ISO TC211 Imagery and Gridded Data Project is investigating how imagery and gridded data need to be supported within the ISO 15046 suite of standards.  A report preliminary to that activity identifies support for the EOSDIS data models as essential and cites the swath model as presented in a draft of this standard. 
+
+The Committee on Earth Observation Satellites (CEOS), an international information exchange body, has endorsed the development of data models for remotely sensed swath data, specifically including the one described in this standard, through the Data Subgroup of its Working Group on Information Systems and Services (WGISS). 
+
+The Spatial Data Transfer Standard (SDTS), originally published as a Federal Information Processing Standards (FIPS) publication  (FIPS 1994) addresses the transfer of geospatial data among computer systems.  The SDTS Raster Profile (FGDC 1999), because it can be used to transfer remote sensing data, is remotely related to the proposed swath standard.  However, the SDTS Raster Profile is a transfer standard, while the proposed swath standard is a content standard.  While the SDTS Raster Profile probably could be adapted to transfer remote sensing swath data, there is no overlap between the standards, because they deal with different data standards described by the FGDC Standards Reference Model.
+
+No other current FGDC, national, or international standard addresses this facet of sharing remote sensing swath data.
+
+1.5	  Standards Development Procedures
+-------------------------------
+This standard has been developed by the Imagery Subgroup of the FGDC Standards Working Group (SWG).  This group consists of members from NASA, the National Oceanic and Atmospheric Administration, the U. S. Geological Survey, the University of Illinois, the University of Wisconsin, and the OpenGIS Consortium.  An initial working draft, discussed by Di and Carlisle (1998) at a meeting of the annual meeting of the American Society for Photogrammetry and Remote Sensing (ASPRS), was reviewed by the SWG Imagery Subgroup.  The draft was then revised in accordance with these comments, where appropriate, and the author of the comments was notified that the comments had been incorporated or provided an explanation of why comments were not incorporated.  The revised draft was then submitted to the Imagery Subgroup, and, as there were no further changes recommended, to the SWG.  
+
+The development of this standard is guided by the FGDC Standards Reference Model (FGDC 1997).  The Standards Reference Model, developed by the SWG of the FGDC, provides guidance to FGDC subcommittees and working groups for the standards development process.  It defines the expectations for FGDC standards, describes different types of geospatial standards, and documents the FGDC standards process.
+ 
+1.6	 	Maintenance Authority
+-------------------------------
+The NASA Earth Science Data and Information System (ESDIS) Program maintains this standard for the Federal Geographic Data Committee.  Address questions concerning this standard to
+NASA Goddard Space Flight Center 
+Code 505 
+Greenbelt, MD 20771.
+ 
