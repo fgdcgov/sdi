@@ -18,7 +18,7 @@ Contents
    
    FGDC-STD-009-1999
 
-   :caption: 📊 RESOURCES
+   :caption: 📚 RESOURCES
    acronyms
    api
    usage
