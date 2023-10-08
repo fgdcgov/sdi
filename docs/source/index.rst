@@ -14,7 +14,7 @@ Contents
 --------
 .. toctree::
    :maxdepth: 10
-   :numbered: true
+   :numbered:
    :caption: 🗺️ SDI Framework
 
    /sdiframework/sdiintroduction
@@ -23,7 +23,7 @@ Contents
 
 .. toctree::
    :maxdepth: 10
-   :numbered: true
+   :numbered:
    :caption: 🔌 FGDC Governance
 
    Policy
@@ -34,7 +34,7 @@ Contents
 
 .. toctree::
    :maxdepth: 25
-   :numbered: true
+   :numbered:
    :caption: 🔌 FGDC STANDARDS
    
    
@@ -49,7 +49,7 @@ Contents
 
 .. toctree::
    :maxdepth: 7
-   :numbered: true
+   :numbered:
    :caption: 📚 SDI RESOURCES
    
    /search/search.rst
