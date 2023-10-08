@@ -1,19 +1,20 @@
+.. meta::
+   :title: Introduction to the U.S. NSDI
+   :description: Provides an introduction to the United States National Spatial Data Infrastructure
+   :keywords: NSDI, Place-Based, SDI, GSDI, Geographic, Evidence-Based, Geospatial, GDA, NGDA, Geospatial Data Act, OGC, ISO, ANSI
+
 SDI Directory
 
 1. INTRODUCTION
 ======================
 
-NSDI – A Place-Based National Framework
+NSDI – A Place-Based National Framework for Insights, Intelligence and Knowledge
 
-Our world is increasingly complex and interconnected. Humanity is challenged with understanding and adjusting to ever-changing economic, environmental, and social factors.
-Sustainable and innovative solutions depend on reliable information, understanding, and informed decision making.
+Our world is increasingly complex and interconnected. Humanity is challenged with understanding and adjusting to ever-changing economic, environmental, and social factors. Sustainable and innovative solutions depend on reliable information, understanding, and informed decision making.
 
-Geographic information is a universal language that helps us intuitively understand and interpret conditions, events, relationships,
-and patterns. It provides key information and context that helps define, influence, and guide our decisions and actions.
+Geographic information is a universal language that helps us intuitively understand and interpret conditions, events, relationships, and patterns. It provides key information and context that helps define, influence, and guide our decisions and actions.
 
-Whether it is understanding unfamiliar environments, determining the best route to a destination, or performing long-term
-planning to enhance community resilience, the components of the NSDI are behind the scenes with the infrastructure to deliver data, tools, and information to people.
-
+A National Spatial Data Infrastructure (NSDI) provides a Place-Based Framework to connect society, data and services to provide insights, intelligence and knowledge.  Whether it is understanding unfamiliar environments, determining the best route to a destination, or performing long-term planning to enhance community resilience, the components of the NSDI are behind the scenes with the infrastructure to deliver data, tools, and information to people.
 
 1.1. What is the NSDI?
 -------------------------------
@@ -75,3 +76,29 @@ The NSDI ensures that place-based data from multiple sources (Federal, state, lo
     
     The NSDI provides a national, cooperative framework that allows access to data, tools and services.
 
+
+1.4 SDI Connecting the U.S. to the World
+ 
+The economic, social and environmental well-being of our Nation and the world depends on the sound use of all our resources. The NSDI plays a vital role in helping us organize and deliver place-based information services.
+
+To advance place-based understanding, we need to connect people, data, technology, and services. This transforms the way all organizations and nations address complex issues facing us now and in the future.
+
+The NSDI continues to advance and accelerate the use of emerging place-based solutions that connect people, data, and technology.
+
+Together we will:
+    Build local to global partnerships
+    Expand access to place-based data
+    Provide a platform to deliver products and services
+    Encourage collaboration and innovation
+ 
+The U.S. NSDI and its connections span and influence the world including:
+
+    GSDI – Global Spatial Data Infrastructure
+    ASDI – Arctic Spatial Data Infrastructure
+    GEO – Group on Earth Observations
+    OGC – The Open Geospatial Consortium
+    SDI Standards – Spatial Data Infrastructure Standards
+
+.. seealso::
+
+   A list of global organizations where the U.S. participates are provided in the SDI References section of the SDI Knowledge Directory. See `SDI References | Standards Organizations <https://fgdc-standards.readthedocs.io/en/latest/references/isostandards.html>`_ for more information.
