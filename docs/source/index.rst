@@ -16,6 +16,7 @@ Contents
    :caption: 🔌 STANDARDS
    
    FGDC-STD-009-1999
+   datagovgeoplatform
 
 .. toctree::
    :caption: 📚 RESOURCES
