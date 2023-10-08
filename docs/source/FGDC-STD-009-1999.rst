@@ -1,5 +1,4 @@
 FGDC-STD-009-1999 Content Standard for Remote Sensing Swath Data
- 
 ======================
 
 1. INTRODUCTION
