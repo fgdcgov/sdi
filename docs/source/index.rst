@@ -19,10 +19,6 @@ Contents
    datagovgeoplatform
    policiesandprograms
    dateelements
-   :caption: 📚 RESOURCES
-   acronyms
-   api
-   usage
 
 .. toctree::
    :caption: 📚 RESOURCES
