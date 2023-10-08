@@ -14,27 +14,46 @@ Contents
 --------
 .. toctree::
    :maxdepth: 3
-   :caption: 🔌 FGDC STANDARDS
+   :caption: 🗺️ SDI Framework
 
-   
+   /sdiframework/sdiintroduction
+   /sdiframework/sdicomponents
+   /sdiframework/sdidefinitions
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 🔌 FGDC Governance
+
+   Policy
+      /policy/policiesandprograms
+   Committees
+   Working Groups
+
+
 .. toctree::
    :maxdepth: 3
    :caption: 🔌 FGDC STANDARDS
    
-   FGDC-STD-009-1999
-   datagovgeoplatform
-   policiesandprograms
-   dateelement
+   Metadata
+      /standards/FGDC-STD-009-1999
+      /standards/FGDC-STD-016-2011
+         /standards/address/Part1Introduction
+         /standards/address/Part2AddressDataContent
+      /standards/datagovgeoplatform  
+      /standards/dateelement
+   Services
 
 .. toctree::
    :maxdepth: 7
    :caption: 📚 SDI RESOURCES
    
+   /search/search.rst
    /references/acronyms
    /references/federalagencies
-   /references/ogcstandards
-   /references/standardsorganizations
    /references/isostandards
    /references/isotopics
+   /references/ogcstandards
+   /references/standardsorganizations
+
    api
    usage
