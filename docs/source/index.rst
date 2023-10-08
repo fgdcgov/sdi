@@ -54,6 +54,7 @@ Contents
    /references/isotopics
    /references/ogcstandards
    /references/standardsorganizations
+   /references/gdaterms
 
    api
    usage
