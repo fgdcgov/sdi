@@ -22,13 +22,13 @@ Contents
    dateelement
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 7
    :caption: 📚 RESOURCES
    
    acronyms
-   🚀 :doc:`/references/federalagencies
-   🚀 :doc:`/references/isostandards
-   🚀 :doc:`/references/ogcstandards
-   🚀 :doc:`/references/standardsbodies
    api
    usage
+   /references/federalagencies
+   /references/isostandards
+   /references/ogcstandards
+   /references/standardsbodies
