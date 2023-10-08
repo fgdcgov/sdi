@@ -26,5 +26,9 @@ Contents
    :caption: 📚 RESOURCES
    
    acronyms
+   🚀 :doc:`/references/federalagencies
+   🚀 :doc:`/references/isostandards
+   🚀 :doc:`/references/ogcstandards
+   🚀 :doc:`/references/standardsbodies
    api
    usage
