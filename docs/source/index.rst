@@ -17,6 +17,11 @@ Contents
    
    FGDC-STD-009-1999
    datagovgeoplatform
+   policiesandprograms
+   :caption: 📚 RESOURCES
+   acronyms
+   api
+   usage
 
 .. toctree::
    :caption: 📚 RESOURCES
