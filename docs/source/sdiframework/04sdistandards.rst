@@ -6,6 +6,20 @@
 SDI Standards
 ======================
 
+Summary
+
+The Geospatial Data Act of 2018 (GDA) establishes the Federal Geographic Data Committee (FGDC) as the lead entity in the executive branch of government for the development, implementation, and review of policies, practices, and standards relating to geospatial data. The GDA describes responsibilities related to geospatial standards for the FGDC and the agencies covered by the law (covered agencies). These responsibilities are reinforced by Office of Management and Budget Circular A-16 and OMB Circular A-119 (development and use of voluntary consensus standards). 
+
+.. note:: 
+
+   In the near future, FGDC will reestablish and resource a sustainable standards process, including implementing supporting governance requirements, updating and improving legacy processes, and validating standards for use as required under the GDA. Agencies should continue, to the extent possible in lieu of an active standards process, to develop, review, update, and achieve compliance with existing and pending standards, and become members of the appropriate FGDC standards body when active. (Approved by the FGDC 12/17/2021)
+
+Standards facilitate development, sharing, and use of geospatial data and services. The FGDC develops or adopts geospatial standards for implementing the NSDI, in consultation and cooperation with State, local, and tribal governments, the private sector and academic community, and, to the extent feasible, the international community.
+
+Federal agencies that collect, use, or disseminate geographic information and/or carry out related spatial data activities shall use FGDC-endorsed standards both internally and through their activities involving partners, grants, and contracts.
+
+Non-Federal agencies are encouraged to use FGDC-endorsed standards to facilitate data sharing.
+
 INTRODUCTION
 -------------------------------
 
