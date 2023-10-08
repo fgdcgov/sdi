@@ -1,4 +1,4 @@
-FGDC Standards 
+SDI Knowledge Directory
 =======================================
 
-This GitHub provides information on FGDC Standards.
+This GitHub provides information on SDI Development.

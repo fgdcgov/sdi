@@ -1,3 +1,3 @@
 # Table of contents
 
-* [FGDC Standards](README.md)
+* [SDI Knowledge Directory](README.md)
