@@ -6,6 +6,10 @@
 FGDC-STD-006 Soil Geographic Data Standard
 ======================
 
+.. note:: This standard was approved by the FGDC in 1997. 
+
+   The Geospatial Data Act of 2018 (GDA) establishes the Federal Geographic Data Committee (FGDC) as the lead entity in the executive branch of government for the development, implementation, and review of policies, practices, and standards relating to geospatial data. The GDA describes responsibilities related to geospatial standards for the FGDC and the agencies covered by the law (covered agencies). These responsibilities are reinforced by Office of Management and Budget Circular A-16 and OMB Circular A-119 (development and use of voluntary consensus standards). In the near future, FGDC will reestablish and resource a sustainable standards process, including implementing supporting governance requirements, updating and improving legacy processes, and validating standards for use as required under the GDA. Agencies should continue, to the extent possible in lieu of an active standards process, to develop, review, update, and achieve compliance with existing and pending standards, and become members of the appropriate FGDC standards body when active. (Approved by the FGDC 12/17/2021)
+
 Summary 
 -------------------------------
 
