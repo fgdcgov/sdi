@@ -2,23 +2,33 @@ Data Elements
 ======================
 
 
-creation	date 
+creation	date
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   identifies when the resource was brought into existence
-publication	date 
+publication	date
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   identifies when the resource was issued
 revision	date
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   identifies when the resource was examined or re-examined and improved or amended
 adopted	date
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   identifies when the resource was adopted
 deprecated date 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   identifies when the resource was deprecated
-distribution date 
+distribution date
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   identifies when an instance of the resource was distributed
 expiry	date 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   identifies when the resource expires
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 inForce	date 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   identifies when the resource became in force
 lastRevision	date 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   identifies when the resource was last reviewed
 lastUpdate	date 
   identifies when the resource was last updated
