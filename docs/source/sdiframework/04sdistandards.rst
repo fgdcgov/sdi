@@ -3,15 +3,15 @@
    :description: Provides SDI standards information from the United States National Spatial Data Infrastructure (NSDI)
    :keywords: NSDI, Place-Based, SDI, NSDI, NSDI Components, NSDI Standards, Standards, Governance, Data Governance, Spatial, GSDI, Geographic, Evidence-Based, Geospatial, GDA, NGDA, Geospatial Data Act, OGC, ISO, ANSI
 
-2.0 SDI Standards
+4.0 SDI Standards
 ======================
 
-2.1 INTRODUCTION
+4.1 INTRODUCTION
 -------------------------------
 
 A standards organization is a body or entity responsible for creating and publishing standards to ensure consistency, quality, interoperability, and safety across various industries and sectors. These standards serve as guidelines, specifications, or protocols that establish common rules, practices, or benchmarks for products, services, and processes.  This reference resource provides a listing of intersecting standards development bodies.
 
-2.2 STANDARDS ORGANIZATIONS
+4.2 STANDARDS ORGANIZATIONS
 -------------------------------
 
 Standards organizations exist to promote efficiency and innovation by providing a foundation of technical specifications that enable compatibility and interoperability.
