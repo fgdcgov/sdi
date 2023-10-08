@@ -18,6 +18,7 @@ Contents
    FGDC-STD-009-1999
    datagovgeoplatform
    policiesandprograms
+   dataelements
    :caption: 📚 RESOURCES
    acronyms
    api
