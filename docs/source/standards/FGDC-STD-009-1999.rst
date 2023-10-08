@@ -1,3 +1,8 @@
+.. meta::
+   :title: FGDC-STD-009-1999 Content Standard for Remote Sensing Swath Data
+   :description: The primary objective of this standard is to define the minimum content for remote sensing swath data (hereinafter called the swath data model).  
+   :keywords: NSDI, Soils, Standards, Soil map, soils, NCSS, Soils Survey,
+
 FGDC-STD-009-1999 Content Standard for Remote Sensing Swath Data
 ======================
 
