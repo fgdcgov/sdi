@@ -18,6 +18,7 @@ Contents
    
    FGDC-STD-009-1999
 
+.. toctree::
    :caption: 📚 RESOURCES
    acronyms
    api
