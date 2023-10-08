@@ -14,7 +14,12 @@ Contents
 --------
 .. toctree::
    :maxdepth: 3
-   :caption: 🔌 STANDARDS
+   :caption: 🔌 FGDC STANDARDS
+
+   
+.. toctree::
+   :maxdepth: 3
+   :caption: 🔌 FGDC STANDARDS
    
    FGDC-STD-009-1999
    datagovgeoplatform
@@ -23,12 +28,13 @@ Contents
 
 .. toctree::
    :maxdepth: 7
-   :caption: 📚 RESOURCES
+   :caption: 📚 SDI RESOURCES
    
-   acronyms
+   /references/acronyms
+   /references/federalagencies
+   /references/ogcstandards
+   /references/standardsorganizations
+   /references/isostandards
+   /references/isotopics
    api
    usage
-   /references/federalagencies
-   /references/isostandards
-   /references/ogcstandards
-   /references/standardsbodies
