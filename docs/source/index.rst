@@ -13,7 +13,7 @@ how to :ref:`installation` the project.
 Contents
 --------
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 10
    :caption: 🗺️ SDI Framework
 
    /sdiframework/sdiintroduction
@@ -21,26 +21,26 @@ Contents
    /sdiframework/sdidefinitions
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 10
    :caption: 🔌 FGDC Governance
 
    Policy
-      /policy/policiesandprograms
+   /policy/policiesandprograms
    Committees
    Working Groups
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 10
    :caption: 🔌 FGDC STANDARDS
    
    Metadata
-      /standards/FGDC-STD-009-1999
-      /standards/FGDC-STD-016-2011
-         /standards/address/Part1Introduction
-         /standards/address/Part2AddressDataContent
-      /standards/datagovgeoplatform  
-      /standards/dateelement
+   /standards/FGDC-STD-009-1999
+   /standards/FGDC-STD-016-2011
+   /standards/address/Part1Introduction
+   /standards/address/Part2AddressDataContent
+   /standards/datagovgeoplatform  
+   /standards/dateelement
    Services
 
 .. toctree::

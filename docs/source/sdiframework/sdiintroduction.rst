@@ -42,11 +42,7 @@ Using spatial data, tools, and models to understand our ever-evolving world prov
 transforming organizations, and spurring market competition. Our Nation is a global leader in
 the creation and dissemination of place-based assets and information.
 
-.. envvar:: NSDIFUTURE
-
-    How will the NSDI shape our future?
-
-    :Default: ``True``
+.. envvar:: How will the NSDI shape our future?
 
 
 Our Nation’s economic, social, and environmental future depends on the sound use of resources.
@@ -59,16 +55,12 @@ The NSDI advances a future driven by place-based information services.
 1.3 Connecting People and Communities
 -------------------------------
 
-Place-Based Information Links Communitie
+Place-Based Information Links Communities
 
 Society is interconnected and interdependent. Local to global activities, events, and decisions affect us all, and bring new opportunities and challenges. The components of the NSDI enable people to work together as communities, sharing place-based information and tools to understand, prepare for and respond to challenges, and
 seize opportunities. This is how the U.S. National Spatial Data Infrastructure advances the geospatial capabilities for the Nation.
 
-.. envvar:: NSDIFUTURE
-
-    HHow do people and communities use the NSDI to leverage place-based information and tools?
-
-    :Default: ``True``
+.. envvar:: How do people and communities use the NSDI to leverage place-based information and tools?
 
 The NSDI provides a rich set of spatial data, tools, and a supporting framework to facilitate and enable people to work together and collaborate as a community. The NSDI is based on the concept of interoperability. This helps users easily leverage resources being made available by others, and enables them to provide their own information and tools for others to use. It is a national cooperative framework.
 
