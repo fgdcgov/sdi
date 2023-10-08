@@ -10,3 +10,14 @@ United States Thoroughfare, Landmark, and Postal Address Data Standard
 
 1.1 Objective
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. note:: Related ISO Standards
+
+    ISO 19160-1:2015 Addressing -- Part 1: Conceptual model;
+    ISO 19160-4(UPU, Universal Postal Union) Addressing--Part4: International postal address components and
+    template language.
+
+    Europe
+
+    INSPIRE Data Specification on Addresses – Technical Guidelines 3.1;
