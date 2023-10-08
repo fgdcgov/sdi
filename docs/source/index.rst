@@ -1,14 +1,13 @@
 FGDC SDI Knowledge Directory!
 ===================================
 
-Standards facilitate the development, sharing, and use of geospatial data and services. The FGDC develops or adopts geospatial standards for implementing the NSDI, in consultation and cooperation with State, local, and tribal governments, the private sector and academic community, and, to the extent feasible, the international community.
+Welcome to the SDI Knowledge Directory.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This directory is a collaborative project to bring together SDI information to advance national, regional and global SDI's.  
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. We will continue to work to improve the SDI Knowledge Directory to serve the geospatial community. 
 
 Contents
 --------
