@@ -7,6 +7,7 @@ SDI Standards
 ======================
 
 Summary
+-------------------------------
 
 The Geospatial Data Act of 2018 (GDA) establishes the Federal Geographic Data Committee (FGDC) as the lead entity in the executive branch of government for the development, implementation, and review of policies, practices, and standards relating to geospatial data. The GDA describes responsibilities related to geospatial standards for the FGDC and the agencies covered by the law (covered agencies). These responsibilities are reinforced by Office of Management and Budget Circular A-16 and OMB Circular A-119 (development and use of voluntary consensus standards). 
 
