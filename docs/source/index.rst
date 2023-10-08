@@ -26,6 +26,7 @@ Contents
 
 .. toctree::
    :caption: 📚 RESOURCES
+   
    acronyms
    api
    usage
