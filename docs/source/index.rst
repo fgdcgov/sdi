@@ -13,6 +13,7 @@ how to :ref:`installation` the project.
 Contents
 --------
 .. toctree::
+   :maxdepth: 3
    :caption: 🔌 STANDARDS
    
    FGDC-STD-009-1999
@@ -21,6 +22,7 @@ Contents
    dateelement
 
 .. toctree::
+   :maxdepth: 3
    :caption: 📚 RESOURCES
    
    acronyms
