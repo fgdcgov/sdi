@@ -32,7 +32,17 @@ Contents
    Committees
    Working Groups
 
+.. toctree::
+   :maxdepth: 25
+   :caption: 🔌 FGDC Partnerships
+   
+   /partnerships/01sdipartnerships
+   /partnerships/02sdipartnershipnisgic
+   /partnerships/03sdipartnershipacademia
+   /partnerships/04sdipartnershipamericas
+   /partnerships/05sdipartnershipgeo
 
+   
 .. toctree::
    :maxdepth: 25
    :caption: 🔌 FGDC STANDARDS
