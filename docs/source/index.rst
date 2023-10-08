@@ -14,6 +14,7 @@ Contents
 --------
 .. toctree::
    :maxdepth: 10
+   :numbered: true
    :caption: 🗺️ SDI Framework
 
    /sdiframework/sdiintroduction
@@ -22,6 +23,7 @@ Contents
 
 .. toctree::
    :maxdepth: 10
+   :numbered: true
    :caption: 🔌 FGDC Governance
 
    Policy
@@ -31,12 +33,14 @@ Contents
 
 
 .. toctree::
-   :maxdepth: 10
+   :maxdepth: 25
+   :numbered: true
    :caption: 🔌 FGDC STANDARDS
    
-   Metadata
+   
+   :caption: Metadata
    /standards/FGDC-STD-009-1999
-   /standards/FGDC-STD-016-2011
+   /standards/address/FGDC-STD-016-2011
    /standards/address/Part1Introduction
    /standards/address/Part2AddressDataContent
    /standards/datagovgeoplatform  
@@ -45,6 +49,7 @@ Contents
 
 .. toctree::
    :maxdepth: 7
+   :numbered: true
    :caption: 📚 SDI RESOURCES
    
    /search/search.rst
