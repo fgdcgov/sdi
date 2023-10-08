@@ -17,8 +17,10 @@ Contents
    :numbered:
    :caption: 🗺️ SDI Framework
 
-   /sdiframework/sdiintroduction
-   /sdiframework/sdicomponents
+   /sdiframework/01sdiintroduction
+   /sdiframework/02sdicomponents
+   /sdiframework/03sdientities
+   /sdiframework/04sdistandards
    /sdiframework/sdidefinitions
 
 .. toctree::
@@ -34,7 +36,6 @@ Contents
 
 .. toctree::
    :maxdepth: 25
-   :numbered:
    :caption: 🔌 FGDC STANDARDS
    
    
