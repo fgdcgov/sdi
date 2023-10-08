@@ -1,5 +1,6 @@
-Data.gov and The GeoPlatform Metadata Recommendations
+Metadata Recommendations | Data.gov and The GeoPlatform 
 ======================
+
 This document provides best practices only and is not intended as policy that agencies must comply with, or for audit purposes. Including Guidelines for National Geospatial Data Assets (NGDA)
 
 1. INTRODUCTION
@@ -53,12 +54,11 @@ Table 1-2. ISO Geospatial Metadata Standards
     * - Dimension
       - Description
     * - ISO 19115: Geographic Information – Metadata content standard
-      - formatted using ISO/TS 19139:2007: Geographic information –– Metadata –– XML schema Note that FGDC has yet to endorse the 2019 update ISO/TS 19139-1:2019: Geographic information — XML schema implementation — Part 1: Encoding rules
-    * - ISO 19115-1:2014 Geographic Information–– Metadata –– Part 1: Fundamentals –– Metadata content standard
-      - formatted using ISO/TS 19115-3:2016 Geographic information –– Metadata –– Part 3: XML schema implementation for fundamental concepts
+      - formatted using ISO/TS 19139:2007: Geographic information – Metadata – XML schema Note that FGDC has yet to endorse the 2019 update ISO/TS 19139-1:2019: Geographic information — XML schema implementation — Part 1: Encoding rules
+    * - ISO 19115-1:2014 Geographic Information – Metadata – Part 1: Fundamentals – Metadata content standard
+      - formatted using ISO/TS 19115-3:2016 Geographic information – Metadata – Part 3: XML schema implementation for fundamental concepts
     * - ISO 19115-2:2019 Geographic information – Metadata – Part 2: Extensions for acquisition and processing
       - formatted using ISO/TS 19139-2:2012: Geographic information — Metadata — XML schema implementation — Part 2: Extensions for imagery and gridded data
-
 
 
 The GDA and OMB Circular A-119 call for agencies to use voluntary consensus standards, such as those developed through ISO, in lieu of government-unique standards. The FGDC Steering Committee has approved an effort to establish a task team to evaluate and recommend a path forward for reestablishing a resourced and sustainable standards process. The goal is to meet the FGDC’s and agencies’ responsibilities related to standards under the GDA, A-16, and other relevant directives. This work will result in developing and updating a standards management process that can be used to establish metadata standards under the GDA.
