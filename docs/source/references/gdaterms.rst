@@ -13,12 +13,7 @@ Table 1.1 Geospatial Data Act Terms
     * - Committee
       - the term Committee means the Federal Geographic Data Committee established under section 753(a);
     * - Covered Agency
-      - the term covered agency—
-      means—
-      an Executive department, as defined in section 101 of title 5, United States Code, that collects, produces, acquires, maintains, distributes, uses, or preserves geospatial data on paper or in electronic form to fulfill the mission of the Executive department, either directly or through a relationship with another organization, including a State, local government, Indian tribe, institution of higher education, business partner or contractor of the Federal Government, and the public;
-      the National Aeronautics and Space Administration; or
-      the General Services Administration; and
-      does not include the Department of Defense (including 30 components and agencies performing national missions) or any element of the intelligence community;
+      - the term covered agency—– means–– an Executive department, as defined in section 101 of title 5, United States Code, that collects, produces, acquires, maintains, distributes, uses, or preserves geospatial data on paper or in electronic form to fulfill the mission of the Executive department, either directly or through a relationship with another organization, including a State, local government, Indian tribe, institution of higher education, business partner or contractor of the Federal Government, and the public; the National Aeronautics and Space Administration; or the General Services Administration; and does not include the Department of Defense (including 30 components and agencies performing national missions) or any element of the intelligence community;
     * - GeoPlatform
       - the term GeoPlatform means the GeoPlatform described in section 758(a);
     * - Geospatial Data
@@ -45,7 +40,7 @@ Table 1.1 Geospatial Data Act Terms
       - the term metadata for geospatial data means information about geospatial data, including the content, source, vintage, accuracy, condition, projection, method of collection, and other characteristics or descriptions of the geospatial data;
     * - National Geospatial Data Asset Theme
       - the term National Geospatial Data Asset data theme means the National Geospatial Data Asset core geospatial datasets (including electronic records and coordinates) relating to a topic or subject designated under section 756;
-    * - National Spatial Data Infrastructre
+    * - National Spatial Data Infrastructure
       - the term National Spatial Data Infrastructure means the technology, policies, criteria, standards, and employees necessary to promote geospatial data sharing throughout the Federal Government, State, tribal, and local governments, and the private sector (including nonprofit organizations and institutions of higher education); and
     * - Proven Practices
       - the term proven practices means methods and activities that advance the use of geospatial data for the benefit of society.
