@@ -49,3 +49,10 @@ NASA Goddard Space Flight Center
 Code 505 
 Greenbelt, MD 20771.
  
+2	  THE SWATH CONCEPT
+-------------------------------
+2.1	  What Is a Swath
+-------------------------------
+A swath is produced when an instrument scans perpendicular to a moving point.  Perpendicular, in this context, means close to, but not necessarily precisely at, a 90 angle.  The path of this point, along which time or a time-like variable increases or decrease monotonically, is defined as the ‘Track’ dimension (sometimes referred to as ‘along track’).  The direction of the scan, which is perpendicular to the ‘Track’ dimension, is called the ‘Cross-Track’ dimension.  Determining geolocation depends on knowing which array dimensions correspond to the ‘Track’ and ‘Cross-Track’ conceptual dimensions.  Other conceptual dimensions, such as ‘Detector’, ‘Band’, ‘Channel’, and ‘Parameter’, also can be defined.  However, since these dimensions are not used for geolocation, this standard does not prescribe their usage.  The swath concept can be applied to measurements from a variety of platforms, including satellite, aircraft, and surface.
+
+A typical satellite swath consists of a series of instrument scans perpendicular to the ground track over which the satellite moves.  Figure 2-1 shows this traditional physical view.  The term swath is sometimes used to refer to a single scan of the instrument's various detectors.  For the purposes of this standard, however, a series of one or more scans is considered to form a swath.  For this example, the ‘Track’ dimension, the moving point, corresponds to the ground track and the ‘Cross-Track’ dimension to the direction of the scans perpendicular to it.  The instrument records its measurements at discrete points along the track.  The same concepts are also applicable to airborne platforms. 
