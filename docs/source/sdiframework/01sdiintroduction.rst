@@ -5,7 +5,7 @@
 
 SDI Directory
 
-1. INTRODUCTION
+INTRODUCTION
 ======================
 
 NSDI – A Place-Based National Framework for Insights, Intelligence and Knowledge
@@ -16,7 +16,7 @@ Geographic information is a universal language that helps us intuitively underst
 
 A National Spatial Data Infrastructure (NSDI) provides a Place-Based Framework to connect society, data and services to provide insights, intelligence and knowledge.  Whether it is understanding unfamiliar environments, determining the best route to a destination, or performing long-term planning to enhance community resilience, the components of the NSDI are behind the scenes with the infrastructure to deliver data, tools, and information to people.
 
-1.1. What is the NSDI?
+What is the NSDI?
 -------------------------------
 
 The NSDI provides a place-based framework for connecting public and private data for understanding and decision making.
@@ -34,7 +34,7 @@ A national framework for sharing place-based information.
     •	Shared Spatial Services and Tools
     •	Interoperable Infrastructure
 
-1.2. The NSDI’s Connected Vision
+The NSDI’s Connected Vision
 -------------------------------
 
 Place-Based Services for an Evolving World
@@ -53,7 +53,7 @@ standards that benefit our Nation. This aligns investments, coordinates acquisit
 
 The NSDI advances a future driven by place-based information services.
 
-1.3 Connecting People and Communities
+Connecting People and Communities
 -------------------------------
 
 Place-Based Information Links Communities
@@ -77,7 +77,7 @@ The NSDI ensures that place-based data from multiple sources (Federal, state, lo
     The NSDI provides a national, cooperative framework that allows access to data, tools and services.
 
 
-1.4 SDI Connecting the U.S. to the World
+SDI Connecting the U.S. to the World
  
 The economic, social and environmental well-being of our Nation and the world depends on the sound use of all our resources. The NSDI plays a vital role in helping us organize and deliver place-based information services.
 
