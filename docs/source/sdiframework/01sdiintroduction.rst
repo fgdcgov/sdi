@@ -43,7 +43,7 @@ Using spatial data, tools, and models to understand our ever-evolving world prov
 transforming organizations, and spurring market competition. Our Nation is a global leader in
 the creation and dissemination of place-based assets and information.
 
-.. envvar:: How will the NSDI shape our future?
+    .. envvar:: How will the NSDI shape our future?
 
 
 Our Nation’s economic, social, and environmental future depends on the sound use of resources.
@@ -61,7 +61,7 @@ Place-Based Information Links Communities
 Society is interconnected and interdependent. Local to global activities, events, and decisions affect us all, and bring new opportunities and challenges. The components of the NSDI enable people to work together as communities, sharing place-based information and tools to understand, prepare for and respond to challenges, and
 seize opportunities. This is how the U.S. National Spatial Data Infrastructure advances the geospatial capabilities for the Nation.
 
-.. envvar:: How do people and communities use the NSDI to leverage place-based information and tools?
+    .. envvar:: How do people and communities use the NSDI to leverage place-based information and tools?
 
 The NSDI provides a rich set of spatial data, tools, and a supporting framework to facilitate and enable people to work together and collaborate as a community. The NSDI is based on the concept of interoperability. This helps users easily leverage resources being made available by others, and enables them to provide their own information and tools for others to use. It is a national cooperative framework.
 
@@ -76,8 +76,8 @@ The NSDI ensures that place-based data from multiple sources (Federal, state, lo
     
     The NSDI provides a national, cooperative framework that allows access to data, tools and services.
 
-
 SDI Connecting the U.S. to the World
+-------------------------------
  
 The economic, social and environmental well-being of our Nation and the world depends on the sound use of all our resources. The NSDI plays a vital role in helping us organize and deliver place-based information services.
 
