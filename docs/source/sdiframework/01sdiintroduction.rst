@@ -21,7 +21,6 @@ What is the NSDI?
 
 The NSDI provides a place-based framework for connecting public and private data for understanding and decision making.
 
-A national framework for sharing place-based information.
 
 .. NSDI Definition::
     The NSDI leverages investments in people, technology, data, and procedures to create and provide the geospatial knowledge required to understand, protect, and promote our national and global interests.
@@ -33,6 +32,12 @@ A national framework for sharing place-based information.
     •	Spatial Data Assets
     •	Shared Spatial Services and Tools
     •	Interoperable Infrastructure
+
+
+.. tip:: 
+
+   A national framework for sharing place-based information.
+
 
 The NSDI’s Connected Vision
 -------------------------------
