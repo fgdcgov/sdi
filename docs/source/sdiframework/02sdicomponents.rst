@@ -79,7 +79,7 @@ Many types of organizations participate in developing and using the framework. A
 # Federal government agencies also are characterized as using lower-resolution data, frequently producing and using data that have a low level of detail and cover broad regions. They also tend to produce and use individual data themes related to their operations. But federal agencies often need and produce higher-resolution data, particularly in managing federally owned lands or facilities, or working on specific projects.
 
 In the private sector, there is a great variety of participants:
-
+-------------------------------
 # users and producers of detailed data, such as utilities;
 users of small-scale, limited geographic themes, such as street networks, statistical areas, and administrative units;
 data producers who create detailed data as a product or a service;
@@ -89,6 +89,7 @@ service providers who offer system development, database development, operations
 Nonprofit and educational institutions also create and use a variety of geographic data and provide GIS-related services. They cover the full spectrum of data content, resolution, and geographic coverage. Depending on the organization’s activities, data use may range from high-resolution data over small areas, as in facility management, to low-resolution data over wide areas, as in regional or national environmental studies.
 
 The Framework Is Built Through Cooperative Efforts
+-------------------------------
 Organizations build the framework by coordinating their data development activities. Framework data coordination operates along two dimensions. The first dimension emphasizes opportunities for organizations with similar needs. An example is a metropolitan area in which local governments, their customers, state and federal agencies with facilities in the area, utilities, and others require high-resolution spatial data for their operations. In this case the framework provides a starting point for sharing the commonly needed geographic base information and allows each organization to add the unique information it requires to meet its business needs.
 
 The second dimension emphasizes opportunities for organizations needing different amounts of detail for an area. For example, a local government, a regional transportation planning organization, and a state transportation agency may require road data for an area, albeit at progressively coarser levels of detail. To work together effectively, they may need to share the results of their individual efforts and would benefit from using a common geographic base and generalized data created from this base. The framework provides a starting point for a base and the data generalized from it, providing the organizations with contemporary and consistent data for decision making and helping them avoid confusion caused by differences in the vintages, common attributes, and other characteristics of the base data.
@@ -96,6 +97,8 @@ The second dimension emphasizes opportunities for organizations needing differen
 The framework is being developed by this entire community, with organizations from all areas playing roles. For some, the framework will supply the data they need to build applications. Others will contribute data, and some may provide services to maintain and distribute data. Some organizations will play several roles in framework development, operation, and use. The framework will take many years to develop fully, but useful components are being developed continuously.
 Framework has several apects: Data, Procedures and technology for building and using the data, and Institutional relationships and business practices that support the environment. The framework was designed to facilitate production and use of geographic data, to reduce costs and improve service and decision making.
 
+Additional Framework Information
+------------------------------- 
 .. tip::  Partnerships
    
    For the past two decades the FGDC has provided leadership in fostering collaboration and developing partnerships for the advancement the NSDI. An effective NSDI requires developing and utilizing partnerships that promote collaboration, cost-effectiveness, and interoperable solutions. These components are the key underpinnings of the NSDI. Moreover, federal geospatial programs are highly dependent on effective relationships with partners and stakeholders from multiple sectors, including the private sector, academia, nonprofits, and all levels of government.
