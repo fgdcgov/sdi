@@ -3,8 +3,9 @@
    :description: The Soil Geographic Data Standard standardizes names, definitions, ranges of values, and other characteristics of soil survey map attribute data.
    :keywords: NSDI, Soils, Standards, Soil map, soils, NCSS, Soils Survey,
 
-FGDC-STD-006 Soil Geographic Data Standard
+FGDC-STD-006 Soil Data Standard
 ======================
+FGDC-STD-006 Soil Geographic Data Standard
 
 .. note:: This standard was approved by the FGDC in 1997. 
 

@@ -50,6 +50,7 @@ Contents
 
 .. toctree::
    :maxdepth: 25
+   :numbered:
    :caption: 🔌 FGDC STANDARDS
    
    /data/datastandards

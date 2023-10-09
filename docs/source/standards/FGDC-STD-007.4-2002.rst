@@ -4,8 +4,11 @@
    :keywords: NSDI, geodetic, global positioning, geospatial, standards, FGDC, CSDGM, data quality, positional accuracy, Water - Oceans and Coasts
 
 
-FGDC-STD-007.4-2002 Geospatial Positioning Accuracy Standards, Part 4: Architecture, Engineering, Construction, and Facilities Management
+FGDC-STD-007.4-2002 GPA Architecture, Engineering, Construction, and Facilities Management
 ======================
+
+
+Geospatial Positioning Accuracy Standards, Part 4: Architecture, Engineering, Construction, and Facilities Management
 
 Summary
 -------------------------------

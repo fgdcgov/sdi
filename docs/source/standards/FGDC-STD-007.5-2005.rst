@@ -4,8 +4,10 @@
    :keywords: NSDI, geodetic, gps, global positioning, geospatial, standards, FGDC, CSDGM, 
 
 
-FGDC-STD-007.5-2005 Geospatial Positioning Accuracy Standards, Part 5: Standards for Nautical Charting Hydrographic Surveys
+FGDC-STD-007.5-2005 Nautical Charting Hydrographic Surveys
 ======================
+
+Geospatial Positioning Accuracy Standards, Part 5: Standards for Nautical Charting Hydrographic Surveys
 
 Summary
 -------------------------------
