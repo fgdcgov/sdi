@@ -25,16 +25,15 @@ Contents
 .. toctree::
    :maxdepth: 10
    :numbered:
-   :caption: 🔌 FGDC Governance
+   :caption: ⚖️ FGDC Governance
 
-   Policy
    /policy/policiesandprograms
    Committees
    Working Groups
 
 .. toctree::
    :maxdepth: 25
-   :caption: 🔌 FGDC Partnerships
+   :caption: 🤝 FGDC Partnerships
    
    /partnerships/01sdipartnerships
    /partnerships/02sdipartnershipnisgic
@@ -42,13 +41,12 @@ Contents
    /partnerships/04sdipartnershipamericas
    /partnerships/05sdipartnershipgeo
 
-   
+
 .. toctree::
    :maxdepth: 25
    :caption: 🔌 FGDC STANDARDS
    
-   
-   :caption: Metadata
+   /data/datastandards
    /standards/FGDC-STD-009-1999
    /standards/address/FGDC-STD-016-2011
    /standards/address/Part1Introduction
