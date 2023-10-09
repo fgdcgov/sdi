@@ -37,7 +37,7 @@ Contents
    :caption: 🤝 FGDC Partnerships
    
    /sdipartnerships/01sdipartnerships
-   /sdipartnerships/02sdipartnershipnisgic
+   /sdipartnerships/02sdipartnershipnsgic
    /sdipartnerships/03sdipartnershipacademia
    /sdipartnerships/04sdipartnershipamericas
    /sdipartnerships/05sdipartnershipgeo
