@@ -54,13 +54,11 @@ The Framework Provides Data, Technology, and Procedures
 
 Geographic data users from many disciplines have a recurring need for a few themes of basic data: geodetic control, orthoimagery, elevation, transportation, hydrography, governmental units, and cadastral information. Many organizations produce and use such data every day. The framework provides basic information for these data themes.
 
-By attaching their own geographic data — which can cover innumerable subjects and themes — to the common data in the framework, users can build their applications more easily and at less cost. The seven data themes provide
+By attaching their own geographic data — which can cover innumerable subjects and themes — to the common data in the framework, users can build their applications more easily and at less cost. The data themes provide basic data that can be used in applications, a base to which users can add or attach geographic details and attributes, a reference source for accurately registering and compiling participants’ own data sets, and a reference map for displaying the locations and the results of an analysis of other data.
 
-basic data that can be used in applications,
-a base to which users can add or attach geographic details and attributes,
-a reference source for accurately registering and compiling participants’ own data sets, and
-a reference map for displaying the locations and the results of an analysis of other data.
-The framework is a growing data resource to which geographic data producers can contribute. It will continually evolve and improve.
+.. tip::
+
+   The framework is a growing data resource to which geographic data producers can contribute. It will continually evolve and improve.
 
 The framework also includes procedures, guidelines, and technology to enable participants to build, integrate, maintain, distribute, and use framework data. These elements ensure that
 
@@ -74,15 +72,15 @@ The Framework Benefits All Types of Organizations
 
 Many types of organizations participate in developing and using the framework. Although different organizations have characteristic data use patterns, all organizations need different resolutions of data at different times, particularly when they are working together.
 
-Local governments typically create and use a great deal of detailed information covering small areas that fall within their jurisdictional boundaries. They typically need the types of data found in the seven framework data themes as a base for their applications, and they frequently integrate these data themes when they build GISs. Local governments, however, also need generalized data. When working on regional issues, for example, they may use data at smaller scales over wider areas.
+# Local governments typically create and use a great deal of detailed information covering small areas that fall within their jurisdictional boundaries. They typically need the types of data found in the seven framework data themes as a base for their applications, and they frequently integrate these data themes when they build GISs. Local governments, however, also need generalized data. When working on regional issues, for example, they may use data at smaller scales over wider areas.
 
-State governments are characterized as using less detailed data covering large regions and pertaining to a particular theme. For some projects, however, state agencies need higher-resolution data for specific regions, such as state-owned lands and facilities. State agencies need the data provided by the framework, although each application may not use the full set of data.
+# State governments are characterized as using less detailed data covering large regions and pertaining to a particular theme. For some projects, however, state agencies need higher-resolution data for specific regions, such as state-owned lands and facilities. State agencies need the data provided by the framework, although each application may not use the full set of data.
 
-Federal government agencies also are characterized as using lower-resolution data, frequently producing and using data that have a low level of detail and cover broad regions. They also tend to produce and use individual data themes related to their operations. But federal agencies often need and produce higher-resolution data, particularly in managing federally owned lands or facilities, or working on specific projects.
+# Federal government agencies also are characterized as using lower-resolution data, frequently producing and using data that have a low level of detail and cover broad regions. They also tend to produce and use individual data themes related to their operations. But federal agencies often need and produce higher-resolution data, particularly in managing federally owned lands or facilities, or working on specific projects.
 
 In the private sector, there is a great variety of participants:
 
-users and producers of detailed data, such as utilities;
+# users and producers of detailed data, such as utilities;
 users of small-scale, limited geographic themes, such as street networks, statistical areas, and administrative units;
 data producers who create detailed data as a product or a service;
 data producers who create low-resolution, small-scale, limited themes for large areas;

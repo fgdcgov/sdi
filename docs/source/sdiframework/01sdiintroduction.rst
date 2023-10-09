@@ -36,7 +36,7 @@ The NSDI is a means to assemble geographic data nationwide to serve a variety of
     •	Interoperable Infrastructure
 
 
-.. tip:: NSDI 
+.. tip::
 
    An NSDI provides a national framework for sharing place-based information.
 
