@@ -36,9 +36,9 @@ The NSDI is a means to assemble geographic data nationwide to serve a variety of
     •	Interoperable Infrastructure
 
 
-.. tip:: 
+.. tip:: NSDI 
 
-   A national framework for sharing place-based information.
+   An NSDI provides a national framework for sharing place-based information.
 
 
 The NSDI’s Connected Vision
@@ -58,7 +58,9 @@ The NSDI’s connective framework, provided by the NDSI Strategic Plan, implemen
  
 standards that benefit our Nation. This aligns investments, coordinates acquisitions, shares tools, and drives innovation to support decision making. In turn, this increases opportunities to fuel economic growth and advantages for the United States.
 
-The NSDI advances a future driven by place-based information services.
+.. tip:: NSDI 
+    
+    The NSDI advances a future driven by place-based information services.
 
 Connecting People and Communities
 -------------------------------

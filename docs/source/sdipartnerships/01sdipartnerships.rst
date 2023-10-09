@@ -1,3 +1,8 @@
+.. meta::
+   :title: U.S. NSDI Partnerships | NSGIC
+   :description: Provides information on the U.S. NSDI Partnership activities with the National States Geographic Information Council
+   :keywords: NSDI, Place-Based, SDI, NSDI, NSDI Components, NSDI Standards, Standards, Governance, Data Governance, Spatial, GSDI, Geographic, Evidence-Based, Geospatial, GDA, NGDA, Geospatial Data Act, OGC, ISO, ANSI
+
 SDI Partnerships
 ======================
 

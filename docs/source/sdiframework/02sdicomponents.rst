@@ -98,19 +98,16 @@ The second dimension emphasizes opportunities for organizations needing differen
 The framework is being developed by this entire community, with organizations from all areas playing roles. For some, the framework will supply the data they need to build applications. Others will contribute data, and some may provide services to maintain and distribute data. Some organizations will play several roles in framework development, operation, and use. The framework will take many years to develop fully, but useful components are being developed continuously.
 Framework has several apects: Data, Procedures and technology for building and using the data, and Institutional relationships and business practices that support the environment. The framework was designed to facilitate production and use of geographic data, to reduce costs and improve service and decision making.
 
-People
+.. tip::  Partnerships
+   
+   For the past two decades the FGDC has provided leadership in fostering collaboration and developing partnerships for the advancement the NSDI. An effective NSDI requires developing and utilizing partnerships that promote collaboration, cost-effectiveness, and interoperable solutions. These components are the key underpinnings of the NSDI. Moreover, federal geospatial programs are highly dependent on effective relationships with partners and stakeholders from multiple sectors, including the private sector, academia, nonprofits, and all levels of government.
+
+
+.. tip::  Standards
+   
+   Standards facilitate development, sharing, and use of geospatial data and services. The FGDC develops or adopts geospatial standards for implementing the NSDI, in consultation and cooperation with State, local, and tribal governments, the private sector and academic community, and, to the extent feasible, the international community.
+.. tip::  Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Partnerships
-
-Governance
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Standards
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Data
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Technology
+.. tip::  Technology
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
