@@ -33,14 +33,14 @@ Contents
 
 .. toctree::
    :maxdepth: 25
+   :numbered:
    :caption: 🤝 FGDC Partnerships
    
-   /partnerships/01sdipartnerships
-   /partnerships/02sdipartnershipnisgic
-   /partnerships/03sdipartnershipacademia
-   /partnerships/04sdipartnershipamericas
-   /partnerships/05sdipartnershipgeo
-
+   /sdipartnerships/01sdipartnerships
+   /sdipartnerships/02sdipartnershipnisgic
+   /sdipartnerships/03sdipartnershipacademia
+   /sdipartnerships/04sdipartnershipamericas
+   /sdipartnerships/05sdipartnershipgeo
 
 .. toctree::
    :maxdepth: 25
