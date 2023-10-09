@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'FGDC Standards'
+project = 'SDI Knowledge Directory'
 copyright = '2023, FGDC'
 author = 'FGDC'
 

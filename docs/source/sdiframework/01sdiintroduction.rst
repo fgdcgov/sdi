@@ -5,7 +5,7 @@
 
 SDI Directory
 
-INTRODUCTION
+Introduction
 ======================
 
 NSDI – A Place-Based National Framework for Insights, Intelligence and Knowledge

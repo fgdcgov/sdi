@@ -1,3 +1,8 @@
+.. meta::
+   :title: SDI Knowledge Directory
+   :description: Provides an introduction to the United States National Spatial Data Infrastructure
+   :keywords: NSDI, Place-Based, SDI, GSDI, Geographic, Evidence-Based, Geospatial, GDA, NGDA, Geospatial Data Act, OGC, ISO, ANSI
+
 FGDC SDI Knowledge Directory!
 ===================================
 
@@ -7,7 +12,8 @@ This directory is a collaborative project to bring together SDI information to a
 
 .. note::
 
-   This project is under active development. We will continue to work to improve the SDI Knowledge Directory to serve the geospatial community. 
+   This project is under active development. 
+   For the past three decades the FGDC has provided leadership in fostering collaboration and developing partnerships for the advancement of local-to-global SDI's.  We will continue to work to mobilize SDI information we have developed over the past 30 years into the SDI Knowledge Directory to serve the geospatial community. 
 
 Contents
 --------
@@ -47,6 +53,11 @@ Contents
    :caption: 🔌 FGDC STANDARDS
    
    /data/datastandards
+   /standards/FGDC-STD-006
+   /standards/FGDC-STD-007.2-1998
+   /standards/FGDC-STD-007.4-2002
+   /standards/FGDC-STD-007.5-2005
+   /standards/FGDC-STD-008-1999
    /standards/FGDC-STD-009-1999
    /standards/address/FGDC-STD-016-2011
    /standards/address/Part1Introduction
@@ -62,6 +73,7 @@ Contents
    
    /search/search.rst
    /references/acronyms
+   /faq/faqs
    /references/federalagencies
    /references/isostandards
    /references/isotopics

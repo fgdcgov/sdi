@@ -1,10 +1,8 @@
 
 .. meta::
-   :title: Introduction to the U.S. NSDI
+   :title: SDI Frequently Asked Questions
    :description: Provides an introduction to the United States National Spatial Data Infrastructure
    :keywords: NSDI, Place-Based, SDI, GSDI, Geographic, Evidence-Based, Geospatial, GDA, NGDA, Geospatial Data Act, OGC, ISO, ANSI
-
-
 
 SDI Frequently Asked Questions
 ======================
