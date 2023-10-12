@@ -10,7 +10,7 @@ Introduction
 
 NSDI – A Place-Based National Framework for Insights, Intelligence and Knowledge
 
-Our world is increasingly complex and interconnected. Humanity is challenged with understanding and adjusting to ever-changing economic, environmental, and social factors. Sustainable and innovative solutions depend on reliable information, understanding, and informed decision making.
+Our world is increasingly complex and interconnected. Humanity is challenged with understanding and adjusting to ever-changing economic, environmental, and social factors. Sustainable and innovative solutions depend on reliable information, understanding, and informed decision-making.
 
 Geographic information is a universal language that helps us intuitively understand and interpret conditions, events, relationships, and patterns. It provides key information and context that helps define, influence, and guide our decisions and actions.
 
@@ -19,9 +19,9 @@ A National Spatial Data Infrastructure (NSDI) provides a Place-Based Framework t
 What is the NSDI?
 -------------------------------
 
-The NSDI provides a place-based framework for connecting public and private data for understanding and decision making.
+The NSDI provides a place-based framework for connecting public and private data for understanding and decision-making.
 
-The NSDI is a means to assemble geographic data nationwide to serve a variety of users. GIS applications of many different disciplines have a recurring need for a few themes of data.  The framework was a collaborative community based effort in which these commonly needed data themes are developed, maintained, and integrated by public and private organizations within a geographic area.  The framework was one of the key building blocks and forms the data backbone of the NSDI.  The framework concept was developed by representatives of county, regional, State, Federal, and other organizations under the auspices of the Federal Geographic Data Committee (FGDC). Local, regional, state and federal government organizations and private companies saw the framework as a way to share resources, improve communications, and increase efficiency.
+The NSDI is a means to assemble geographic data nationwide to serve a variety of users. GIS applications of many different disciplines have a recurring need for a few themes of data.  The framework is a collaborative community-based effort in which these commonly needed data themes are developed, maintained, and integrated by public and private organizations within a geographic area.  The framework is one of the key building blocks and forms the data backbone of the NSDI.  The framework concept is developed by representatives of county, regional, State, Federal, and other organizations under the auspices of the Federal Geographic Data Committee (FGDC). Local, regional, state and federal government organizations and private companies saw the framework as a way to share resources, improve communications, and increase efficiency.
 
 
 .. NSDI Definition::
@@ -46,7 +46,7 @@ The NSDI’s Connected Vision
 
 Place-Based Services for an Evolving World
 
-Using spatial data, tools, and models to understand our ever-evolving world provides a worldwide recognized value. Place-based information is stimulating a local to global trillion dollar industry, bringing new jobs,
+Using spatial data, tools, and models to understand our ever-evolving world provides a worldwide recognized value. Place-based information is stimulating a local to global trillion-dollar industry, bringing new jobs,
 transforming organizations, and spurring market competition. Our Nation is a global leader in
 the creation and dissemination of place-based assets and information.
 
