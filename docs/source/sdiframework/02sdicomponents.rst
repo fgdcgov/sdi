@@ -1,6 +1,6 @@
 .. meta::
-   :title: U.S. NSDI Framework and Components
-   :description: Provides SDI Component information from the United States National Spatial Data Infrastructure (NSDI)
+   :title: U.S. Spatial Data Infrastructure Framework and Components
+   :description: Provides Spatial Data Infrastructure (SDI) Component information from the United States National Spatial Data Infrastructure (NSDI)
    :keywords: NSDI, Place-Based, SDI, NSDI, NSDI Components, NSDI Standards, Standards, Governance, Data Governance, Spatial, GSDI, Geographic, Evidence-Based, Geospatial, GDA, NGDA, Geospatial Data Act, OGC, ISO, ANSI
 
 SDI Components
@@ -101,7 +101,7 @@ Additional Framework Information
 ------------------------------- 
 .. tip::  Partnerships
    
-   For the past two decades the FGDC has provided leadership in fostering collaboration and developing partnerships for the advancement the NSDI. An effective NSDI requires developing and utilizing partnerships that promote collaboration, cost-effectiveness, and interoperable solutions. These components are the key underpinnings of the NSDI. Moreover, federal geospatial programs are highly dependent on effective relationships with partners and stakeholders from multiple sectors, including the private sector, academia, nonprofits, and all levels of government.
+For the past two decades the FGDC has provided leadership in fostering collaboration and developing partnerships for the advancement the NSDI. An effective NSDI requires developing and utilizing partnerships that promote collaboration, cost-effectiveness, and interoperable solutions. These components are the key underpinnings of the NSDI. Moreover, federal geospatial programs are highly dependent on effective relationships with partners and stakeholders from multiple sectors, including the private sector, academia, nonprofits, and all levels of government.
 
 
 .. tip::  Standards
