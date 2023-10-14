@@ -3,7 +3,7 @@ Acronyms
 
 This resource provides acronyms frequently utilized by the FGDC.
 
-..glossary::
+.. glossary::
 
-  GDA
-    Geospatial Data Act
+    GDA
+      Geospatial Data Act
