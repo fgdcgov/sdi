@@ -1,4 +1,4 @@
-Acronyms
+Abbreviated Terms
 ======================
 
 
