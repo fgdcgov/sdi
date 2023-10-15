@@ -73,16 +73,15 @@ Contents
    :caption: 📚 SDI RESOURCES
    
    /search/search.rst
-   /references/index.rst
-   /references/acronyms
-   /faq/faqs
+   /references/acronyms.rst
+   /faq/faqs.rst
    /references/federalagencies
-   /references/isostandards
+   /references/isostandards.rst
    /references/isotopics
    /references/ogcstandards
    /references/standardsorganizations
-   /references/gdaterms
-   /references/terms
+   /references/gdaterms.rst
+   /references/terms.rst
 
    api
    usage
