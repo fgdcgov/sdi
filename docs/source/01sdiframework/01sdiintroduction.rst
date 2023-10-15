@@ -10,11 +10,11 @@ Introduction
 
 NSDI – A Place-Based National Framework for Insights, Intelligence and Knowledge
 
-Our world is increasingly complex and interconnected. Humanity is challenged with understanding and adjusting to ever-changing economic, environmental, and social factors. Sustainable and innovative solutions depend on reliable information, understanding, and informed decision-making.
-
-Geographic information is a universal language that helps us intuitively understand and interpret conditions, events, relationships, and patterns. It provides key information and context that helps define, influence, and guide our decisions and actions.
-
-A National Spatial Data Infrastructure (NSDI) provides a Place-Based Framework to connect society, data and services to provide insights, intelligence and knowledge.  Whether it is understanding unfamiliar environments, determining the best route to a destination, or performing long-term planning to enhance community resilience, the components of the NSDI are behind the scenes with the infrastructure to deliver data, tools, and information to people.
+    .. cpp:enumerator:: Our world is increasingly complex and interconnected. Humanity is challenged with understanding and adjusting to    ever-changing economic, environmental, and social factors. Sustainable and innovative solutions depend on reliable information, understanding, and informed decision-making. 
+    
+    Geographic information is a universal language that helps us intuitively understand and interpret conditions, events, relationships, and patterns. It provides key information and context that helps define, influence, and guide our decisions and actions.
+    
+    A National Spatial Data Infrastructure (NSDI) provides a Place-Based Framework to connect society, data and services to provide insights, intelligence and knowledge.  Whether it is understanding unfamiliar environments, determining the best route to a destination, or performing long-term planning to enhance community resilience, the components of the NSDI are behind the scenes with the infrastructure to deliver data, tools, and information to people.
 
 What is the NSDI?
 -------------------------------
