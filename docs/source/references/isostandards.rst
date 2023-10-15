@@ -13,5 +13,5 @@ This resource provides a list of the ISO Geographic information/Geomatics standa
 
 .. csv-table:: Listing of ISO Geographic information/Geomatics Standards
    :file: /references/isostandards.csv
-   :widths: 10, 30
+   :widths: 10, 30, 10
    :header-rows: 1
