@@ -1,0 +1,24 @@
+﻿Term,Definition,Reference
+"data level
+",stratum within a set of layered levels in which data is recorded that conforms to definitions of types found at the application model level ,ISO 19101
+"dataset series (dataset collection1)
+",collection of datasets sharing the same product specification," ISO 19113,
+ISO 19114,
+ISO 19115"
+"geographic dataset
+",dataset with a spatial aspect, ISO 19115
+"geographic information
+",information concerning phenomena implicitly or explicitly associated with a location relative to the Earth, ISO 19128
+interface,named set of operations that characterize the behavior of an entity,ISO 19119
+metadata entity,set of metadata elements describing the same aspect of data.,ISO 19115
+metadata schema,conceptual schema describing metadata,ISO 19101
+metadata section,subset of metadata that defines a collection of related metadata entities and elements,ISO 19115
+operation,specification of a transformation or query that an object may be called to execute ,ISO 19119
+parameter,variable whose name and value are included in an operation request or response ,ISO 19119
+profile,"set of one or more base standards and – where applicable – the identification of chosen clauses, classes, subsets, options and parameters of those base standards that are necessary for accomplishing a particular function"," ISO 19101,
+ ISO 19106"
+schema,formal description of a model ,"ISO 19101, 
+ISO 19103,
+ISO 19109,
+ISO 19118"
+server service instance,a particular instance of a service, ISO 19128
