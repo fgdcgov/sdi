@@ -22,11 +22,11 @@ Contents
    :numbered:
    :caption: 🗺️ SDI Framework
 
-   /sdiframework/01sdiintroduction
-   /sdiframework/02sdicomponents
-   /sdiframework/03sdientities
-   /sdiframework/04sdistandards
-   /sdiframework/sdidefinitions
+   /01sdiframework/01sdiintroduction
+   /01sdiframework/02sdicomponents
+   /01sdiframework/03sdientities
+   /01sdiframework/04sdistandards
+   /01sdiframework/sdidefinitions
 
 .. toctree::
    :maxdepth: 10
