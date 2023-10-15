@@ -1,0 +1,172 @@
+﻿Standard,Title,Status
+ISO 19101-1:2014,Geographic information — Reference model — Part 1: Fundamentals,Published
+ISO 19101-2:2018,Geographic information — Reference model — Part 2: Imagery,Published
+ISO 19101:2002,Geographic information — Reference model,Withdrawn
+ISO 19103:2015,Geographic information — Conceptual schema language,Published
+ISO 19104:2016,Geographic information — Terminology,Published
+ISO 19105:2000,Geographic information — Conformance and testing,Withdrawn
+ISO 19105:2022,Geographic information — Conformance and testing,Published
+ISO 19106:2004,Geographic information — Profiles,Published
+ISO 19107:2003,Geographic information — Spatial schema,Withdrawn
+ISO 19107:2019,Geographic information — Spatial schema,Published
+ISO 19108:2002,Geographic information — Temporal schema,Published
+ISO 19108:2002/Cor 1:2006,Geographic information — Temporal schema — Technical Corrigendum 1,Published
+ISO 19109:2005,Geographic information — Rules for application schema,Withdrawn
+ISO 19109:2015,Geographic information — Rules for application schema,Published
+ISO 19110:2005,Geographic information — Methodology for feature cataloguing,Withdrawn
+ISO 19110:2005/Amd 1:2011,Geographic information — Methodology for feature cataloguing — Amendment 1,Withdrawn
+ISO 19110:2016,Geographic information — Methodology for feature cataloguing,Published
+ISO 19111-2:2009,Geographic information — Spatial referencing by coordinates — Part 2: Extension for parametric values,Withdrawn
+ISO 19111:2003,Geographic information — Spatial referencing by coordinates,Withdrawn
+ISO 19111:2007,Geographic information — Spatial referencing by coordinates,Withdrawn
+ISO 19111:2019,Geographic information — Referencing by coordinates,Published
+ISO 19111:2019/Amd 1:2021,Geographic information — Referencing by coordinates — Amendment 1,Published
+ISO 19111:2019/Amd 2:2023,Geographic information — Referencing by coordinates — Amendment 2,Published
+ISO 19112:2003,Geographic information — Spatial referencing by geographic identifiers,Withdrawn
+ISO 19112:2019,Geographic information — Spatial referencing by geographic identifiers,Published
+ISO 19113:2002,Geographic information — Quality principles,Withdrawn
+ISO 19114:2003,Geographic information — Quality evaluation procedures,Withdrawn
+ISO 19114:2003/Cor 1:2005,Geographic information — Quality evaluation procedures — Technical Corrigendum 1,Withdrawn
+ISO 19115-1:2014,Geographic information — Metadata — Part 1: Fundamentals,Published
+ISO 19115-1:2014/Amd 1:2018,Geographic information — Metadata — Part 1: Fundamentals — Amendment 1,Published
+ISO 19115-1:2014/Amd 2:2020,Geographic information — Metadata — Part 1: Fundamentals — Amendment 2,Published
+ISO 19115-2:2009,Geographic information — Metadata — Part 2: Extensions for imagery and gridded data,Withdrawn
+ISO 19115-2:2019,Geographic information — Metadata — Part 2: Extensions for acquisition and processing,Published
+ISO 19115-2:2019/Amd 1:2022,Geographic information — Metadata — Part 2: Extensions for acquisition and processing — Amendment 1,Published
+ISO 19115-3:2023,Geographic information — Metadata — Part 3: XML schema implementation for fundamental concepts,Published
+ISO 19115:2003,Geographic information — Metadata,Withdrawn
+ISO 19115:2003/Cor 1:2006,Geographic information — Metadata — Technical Corrigendum 1,Withdrawn
+ISO 19116:2004,Geographic information — Positioning services,Withdrawn
+ISO 19116:2019,Geographic information — Positioning services,Published
+ISO 19116:2019/Amd 1:2021,Geographic information — Positioning services — Amendment 1,Published
+ISO 19117:2005,Geographic information — Portrayal,Withdrawn
+ISO 19117:2012,Geographic information — Portrayal,Published
+ISO 19118:2005,Geographic information — Encoding,Withdrawn
+ISO 19118:2011,Geographic information — Encoding,Published
+ISO 19119:2005,Geographic information — Services,Withdrawn
+ISO 19119:2005/Amd 1:2008,Geographic information — Services — Amendment 1: Extensions of the service metadata model,withdrawn
+ISO 19119:2016,Geographic information — Services,Published
+ISO 19123-1:2023,Geographic information — Schema for coverage geometry and functions — Part 1: Fundamentals,Published
+ISO 19123-2:2018,Geographic information — Schema for coverage geometry and functions — Part 2: Coverage implementation schema,Published
+ISO 19123-3:2023,Geographic information — Schema for coverage geometry and functions — Part 3: Processing fundamentals,Published
+ISO 19123:2005,Geographic information — Schema for coverage geometry and functions,Withdrawn
+ISO 19125-1:2004,Geographic information — Simple feature access — Part 1: Common architecture,Published
+ISO 19125-2:2004,Geographic information — Simple feature access — Part 2: SQL option,Withdrawn
+ISO 19126:2009,Geographic information — Feature concept dictionaries and registers,Withdrawn
+ISO 19126:2021,Geographic information — Feature concept dictionaries and registers,Published
+ISO 19127:2019,Geographic information — Geodetic register,Published
+ISO 19128:2005,Geographic information — Web map server interface,Published
+ISO 19130-1:2018,Geographic information — Imagery sensor models for geopositioning — Part 1: Fundamentals,Published
+ISO 19131:2007,Geographic information — Data product specifications,Withdrawn
+ISO 19131:2007/Amd 1:2011,Geographic information — Data product specifications — Amendment 1: Requirements relating to the inclusion of an application schema and feature catalogue and the treatment of coverages in an application schema.,Withdrawn
+ISO 19131:2022,Geographic information — Data product specifications,Published
+ISO 19132:2007,Geographic information — Location-based services — Reference model,Published
+ISO 19133:2005,Geographic information — Location-based services — Tracking and navigation,Published
+ISO 19134:2007,Geographic information — Location-based services — Multimodal routing and navigation,Published
+ISO 19135-1:2015,Geographic information — Procedures for item registration — Part 1: Fundamentals,Published
+ISO 19135-1:2015/Amd 1:2021,Geographic information — Procedures for item registration — Part 1: Fundamentals — Amendment 1,Published
+ISO 19135:2005,Geographic information — Procedures for item registration,Withdrawn
+ISO 19136-1:2020,Geographic information — Geography Markup Language (GML) — Part 1: Fundamentals,Published
+ISO 19136-2:2015,Geographic information — Geography Markup Language (GML) — Part 2: Extended schemas and encoding rules,Published
+ISO 19136:2007,Geographic information — Geography Markup Language (GML),Withdrawn
+ISO 19137:2007,Geographic information — Core profile of the spatial schema,Published
+ISO 19141:2008,Geographic information — Schema for moving features,Published
+ISO 19142:2010,Geographic information — Web Feature Service,Published
+ISO 19143:2010,Geographic information — Filter encoding,Published
+ISO 19144-1:2009,Geographic information — Classification systems — Part 1: Classification system structure,Published
+ISO 19144-1:2009/Cor 1:2012,Geographic information — Classification systems — Part 1: Classification system structure — Technical Corrigendum 1,Published
+ISO 19144-2:2012,Geographic information - Classification systems — Part 2: Land Cover Meta Language (LCML),Published
+ISO 19145:2013,Geographic information — Registry of representations of geographic point location,Published
+ISO 19146:2010,Geographic information — Cross-domain vocabularies,Withdrawn
+ISO 19146:2018,Geographic information — Cross-domain vocabularies,Published
+ISO 19147:2015,Geographic information — Transfer Nodes,Published
+ISO 19148:2012,Geographic information — Linear referencing,Withdrawn
+ISO 19148:2021,Geographic information — Linear referencing,Published
+ISO 19149:2011,Geographic information — Rights expression language for geographic information — GeoREL,Withdrawn
+ISO 19150-2:2015,Geographic information — Ontology — Part 2: Rules for developing ontologies in the Web Ontology Language (OWL),Published
+ISO 19150-2:2015/Amd 1:2019,Geographic information — Ontology — Part 2: Rules for developing ontologies in the Web Ontology Language (OWL) — Amendment 1,Published
+ISO 19150-4:2019,Geographic information — Ontology — Part 4: Service ontology,Published
+ISO 19150-6:2023,Geographic information — Ontology — Part 6: Service ontology register,Published
+ISO 19152:2012,Geographic information — Land Administration Domain Model (LADM),Published
+ISO 19153:2014,Geospatial Digital Rights Management Reference Model (GeoDRM RM),Withdrawn
+ISO 19154:2014,Geographic information — Ubiquitous public access — Reference model,Published
+ISO 19155-2:2017,Geographic information — Place Identifier (PI) architecture — Part 2: Place Identifier (PI) linking,Published
+ISO 19155:2012,Geographic information — Place Identifier (PI) architecture,Published
+ISO 19156:2011,Geographic information — Observations and measurements,Withdrawn
+ISO 19156:2023,"Geographic information — Observations, measurements and samples",Published
+ISO 19157-1:2023,Geographic information — Data quality — Part 1: General requirements,Published
+ISO 19157:2013,Geographic information — Data quality,Published
+ISO 19157:2013/Amd 1:2018,Geographic information — Data quality — Amendment 1: Describing data quality using coverages,Published
+ISO 19160-1:2015,Addressing — Part 1: Conceptual model,Published
+ISO 19160-2,Addressing — Part 2: Assigning and maintaining addresses for objects in the physical world,Under Development
+ISO 19160-3:2020,Addressing — Part 3: Address data quality,Published
+ISO 19160-4:2017,Addressing — Part 4: International postal address components and template language,Withdrawn
+ISO 19160-4:2023,Addressing — Part 4: International postal address components and template language,Published
+ISO 19161-1:2020,Geographic information — Geodetic references — Part 1: International terrestrial reference system (ITRS),Published
+ISO 19162:2015,Geographic information — Well-known text representation of coordinate reference systems,Withdrawn
+ISO 19162:2019,Geographic information — Well-known text representation of coordinate reference systems,Published
+ISO 19162:2019/Amd 1:2023,Geographic information — Well-known text representation of coordinate reference systems — Amendment 1,Published
+ISO 19165-1:2018,Geographic information — Preservation of digital data and metadata — Part 1: Fundamentals,Published
+ISO 19165-2:2020,Geographic information — Preservation of digital data and metadata — Part 2: Content specifications for Earth observation data and derived digital products,Published
+ISO 19168-1:2020,Geographic information — Geospatial API for features — Part 1: Core,Published
+ISO 19168-2:2022,Geographic information – Geospatial API for features — Part 2: Coordinate Reference Systems by Reference,Published
+ISO 19170-1:2021,"Geographic information — Discrete Global Grid Systems Specifications — Part 1: Core Reference System and Operations, and Equal Area Earth Reference System",Published
+ISO 6709:1983,"Standard representation of latitude, longitude and altitude for geographic point locations",Withdrawn
+ISO 6709:2008,Standard representation of geographic point location by coordinates,Withdrawn
+ISO 6709:2008/Cor 1:2009,Standard representation of geographic point location by coordinates — Technical Corrigendum 1,Withdrawn
+ISO 6709:2022,Standard representation of geographic point location by coordinates,Published
+ISO/AWI 19127,Geographic information — Geodetic register,Under Development
+ISO/AWI 19157-3,Geographic information — Data quality — Part 3: Data quality measures register,Under Development
+ISO/AWI TR 19115-4,Geographic information – Metadata — Part 4: JSON schema implementation of metadata fundamentals in ISO Projects,Under Development
+ISO/AWI TR 19174,Geographic Information – Securing interoperability among heterogeneous city domain information models,Under Development
+ISO/AWI TR 19175,Geographic Information – Gap analysis of geospatial standards for indoor-outdoor seamless navigation,Under Development
+ISO/AWI TS 19124-2,Geographic information — Calibration and validation of remote sensing data and derived products — Part 2: SAR,Under Development
+ISO/AWI TS 19130-2,"Geographic information — Imagery sensor models for geopositioning — Part 2: SAR, InSAR, lidar and sonar",Under Development
+ISO/AWI TS 19144-3,Geographic information — Classification systems — Part 3: Land Use Meta Language (LUML),Under Development
+ISO/AWI TS 19176-1,Geographic information — Analysis ready data — Part 1: Framework and fundamentals,Under Development
+ISO/CD 19109,Geographic information — General feature model and rules for application schema,Under Development
+ISO/CD 19116,Geographic information — Positioning services,Under Development
+ISO/CD 19135,Geographic information registration — Requirements,Deleted
+ISO/CD 19135,Geographic information — Procedures for item registration,Under Development
+ISO/CD 19152-2,Geographic information — Land Administration Domain Model (LADM) — Part 2: Land registration,Under Development
+ISO/CD 19152-4,Geographic information — Land Administration Domain Model (LADM) — Part 4: Valuation information,Under Development
+ISO/CD 19152-5,Geographic information — Land Administration Domain Model (LADM) — Part 5: Spatial plan information,Under Development
+ISO/DIS 19103,Geographic information — Conceptual schema language,Under Development
+ISO/DIS 19152-3,Geographic information — Land Administration Domain Model (LADM) — Part 3: Marine georegulation,Under Development
+ISO/DIS 19164,Geographic information — Indoor feature model,Under Development
+ISO/DIS 19168-1,Geographic information — Geospatial API for features — Part 1: Core,Under Development
+ISO/FDIS 19152-1,Geographic information — Land Administration Domain Model (LADM) — Part 1: Generic conceptual model,Under Development
+ISO/PRF 19144-2,Geographic information — Classification systems — Part 2: Land Cover Meta Language (LCML),Under Development
+ISO/TR 19120:2001,Geographic information — Functional standards,Withdrawn
+ISO/TR 19121:2000,Geographic information — Imagery and gridded data,Published
+ISO/TR 19122:2004,Geographic information / Geomatics — Qualification and certification of personnel,Withdrawn
+ISO/TR 19167:2019,Application of ubiquitous public access to-geographic information to an air quality information service,Published
+ISO/TR 19169:2021,Geographic Information — Gap-analysis: mapping and describing the differences between the current GDF and ISO/TC 211 conceptual models to suggest ways to harmonize and resolve conflicting issues,Published
+ISO/TS 19101-2:2008,Geographic information — Reference model — Part 2: Imagery,Withdrawn
+ISO/TS 19103:2005,Geographic information — Conceptual schema language,Withdrawn
+ISO/TS 19104:2008,Geographic information — Terminology,Withdrawn
+ISO/TS 19115-3:2016,Geographic information — Metadata — Part 3: XML schema implementation for fundamental concepts,Withdrawn
+ISO/TS 19124-1:2023,Geographic information — Calibration and validation of remote sensing data and derived products — Part 1: Fundamentals,Published
+ISO/TS 19127:2005,Geographic information — Geodetic codes and parameters,Withdrawn
+ISO/TS 19129:2009,"Geographic information — Imagery, gridded and coverage data framework",Published
+ISO/TS 19130-2:2014,"Geographic information — Imagery sensor models for geopositioning — Part 2: SAR, InSAR, lidar and sonar",Published
+ISO/TS 19130-3:2022,Geographic information — Imagery sensor models for geopositioning — Part 3: Implementation schema,Published
+ISO/TS 19130:2010,Geographic information - Imagery sensor models for geopositioning,Withdrawn
+ISO/TS 19135-2:2012,Geographic information - Procedures for item registration — Part 2: XML schema implementation,Withdrawn
+ISO/TS 19138:2006,Geographic information — Data quality measures,Withdrawn
+ISO/TS 19139-1:2019,Geographic information — XML schema implementation — Part 1: Encoding rules,Published
+ISO/TS 19139-2:2012,Geographic information — Metadata — XML schema implementation — Part 2: Extensions for imagery and gridded data,Withdrawn
+ISO/TS 19139:2007,Geographic information — Metadata — XML schema implementation,Withdrawn
+ISO/TS 19150-1:2012,Geographic information — Ontology — Part 1: Framework,Published
+ISO/TS 19157-2:2016,Geographic information — Data quality — Part 2: XML schema implementation,Published
+ISO/TS 19158:2012,Geographic information — Quality assurance of data supply,Published
+ISO/TS 19159-1:2014,Geographic information — Calibration and validation of remote sensing imagery sensors and data — Part 1: Optical sensors,Published
+ISO/TS 19159-2:2016,Geographic information — Calibration and validation of remote sensing imagery sensors and data — Part 2: Lidar,Published
+ISO/TS 19159-3:2018,Geographic information — Calibration and validation of remote sensing imagery sensors and data — Part 3: SAR/InSAR,Published
+ISO/TS 19159-4:2022,Geographic information — Calibration and validation of remote sensing imagery sensors and data — Part 4: Space-borne passive microwave radiometers,Published
+ISO/TS 19163-1:2016,Geographic information — Content components and encoding rules for imagery and gridded data — Part 1: Content model,Published
+ISO/TS 19163-2:2020,Geographic information — Content components and encoding rules for imagery and gridded data — Part 2: Implementation schema,Published
+ISO/TS 19166:2021,Geographic information — BIM to GIS conceptual mapping (B2GM),Published
+ISO/WD 19127,Geographic information — Geodetic register,Deleted
+ISO/WD 19135-1,Geographic information — Procedures for item registration — Part 1: Fundamentals,Deleted
+ISO/WD 19157-3,Geographic information — Data quality — Part 3: Data quality measures register,Deleted

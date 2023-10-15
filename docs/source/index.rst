@@ -73,6 +73,7 @@ Contents
    :caption: 📚 SDI RESOURCES
    
    /search/search.rst
+   /references/index.rst
    /references/acronyms
    /faq/faqs
    /references/federalagencies

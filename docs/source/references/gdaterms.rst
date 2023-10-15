@@ -1,6 +1,9 @@
 Table 1.1 Geospatial Data Act Terms
 -------------------------------
 
+
+This table provides a list of terms provided in the Geospatial Data Act of 2018
+
 .. list-table:: 
     :widths: 5 10
     :header-rows: 1
