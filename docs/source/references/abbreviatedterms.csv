@@ -1,38 +1,55 @@
 ﻿Term,Definition
+ARD,Analysis Ready Data
 API ,Application Program Interface
+API,Application Programming Interface
 ATM,Atmospheric Type (Namespace)
+EOP,Basic Earth Observation Product Type (Namespace)
 BPEL,Business Process Execution Language
+CSW,Catalogue Service for Web
 COTS,Commercial Off The Shelf
+CORBA,Common Object Request Broker Architecture 
 CQL,Common Query Language
 CRS,Coordinate Reference System
-CSW,Catalogue Service for Web
+DCAT,Data Catalogue Vocabularty
+DRI,Decision Ready Information
+DCP,Distributed Computing Platform
 DC,Dublin Core
 DCMI,Dublin Core Metadata Initiative
-DCP,Distributed Computing Platform
-ebRIM,ebXML Registry Information Model
 EO,Earth Observation
-EOP,Basic Earth Observation Product Type (Namespace)
+ebRIM,ebXML Registry Information Model
+XML,eXtensible Markup Language
+FGDC,Federal Geographic Data Committee
+FOAF,FOAF Vocabulary Specification
 GML,Geography Markup Language
+GDA,Geospatial Data Act
+GIS,Geospatial Information System
+GSDI,Global Spatial Data Infrastructure
 HMA,Heterogeneous Missions Accessibility
 HTTP,HyperText Transfer Protocol
+IDL,Interface Definition Language 
 ISO,International Organization for Standardization
+KVP,Keyword Value Pair 
+MIME,Multipurpose Internet Mail Extensions 
+NGDA,National Geospatial Data Asset
+NSDI,National Spatial Data Infrastructure
+NGO,Non Governmental Organization
 OGC,Open Geospatial Consortium
 OPT,Optical Type (Namespace)
 PHR,Pleiades High Resolution Type (Namespace)
-SAR,Synthetic Aperture Radar Type (Namespace)
+Z39.50,"Service definition for information search and retrieval, also known as ISO 23950"
 SOAP,Simple Object Access Protocol
+SDI,Spatial Data infrastructure
 SQL,Structured Query Language
+SAR,Synthetic Aperture Radar Type (Namespace)
+TBD,To Be Determined 
+TBR,To Be Reviewed 
+UTF-8,Unicode Transformation Format-8
 UML,Unified Modeling Language
 URI,Uniform Resource Identifier
 URL,Uniform Resource Locator
 URN,Uniform Resource Name
-UTF-8,Unicode Transformation Format-8
+WFS,Web Feature Service
+WMS,Web Mapping Service
 WSDL,Web Service Definition Language
 W3C,World Wide Web Consortium
-XML,eXtensible Markup Language
-GDA,Geospatial Data Act
-NGDA,National Geospatial Data Asset
-GIS,Geospatial Information System
-FGDC,Federal Geographic Data Committee
-GIS,Geospatial Information System
-FGDC,Federal Geographic Data Committee
+W3C,World Wide Web Consortium
