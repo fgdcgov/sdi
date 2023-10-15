@@ -54,6 +54,9 @@ Contents
    :caption: 🔌 FGDC STANDARDS
    
    /data/datastandards
+
+   Data Themes
+   ---------
    /standards/FGDC-STD-006
    /standards/FGDC-STD-007.2-1998
    /standards/FGDC-STD-007.4-2002
@@ -63,6 +66,9 @@ Contents
    /standards/address/FGDC-STD-016-2011
    /standards/address/Part1Introduction
    /standards/address/Part2AddressDataContent
+   
+   Data.Gov
+   ---------
    /standards/datagovgeoplatform  
    /standards/dateelement
    Services
