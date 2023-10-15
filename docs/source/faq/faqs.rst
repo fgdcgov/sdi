@@ -7,7 +7,7 @@
 SDI Frequently Asked Questions
 ======================
 
-
+.. toctree::
 What is the NSDI and the framework?
 Why is the framework needed?
 What are the framework data themes?
