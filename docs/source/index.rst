@@ -81,6 +81,7 @@ Contents
    /references/ogcstandards
    /references/standardsorganizations
    /references/gdaterms
+   /references/terms
 
    api
    usage
