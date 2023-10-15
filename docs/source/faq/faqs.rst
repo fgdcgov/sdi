@@ -8,7 +8,7 @@ SDI Frequently Asked Questions
 ======================
 
 
-What are the NSDI and the framework?
+What is the NSDI and the framework?
 Why is the framework needed?
 What are the framework data themes?
 Why were these specific themes selected?
@@ -25,7 +25,7 @@ Who can I contact to learn more about framework activities in my area?
 What National Geospatial Data Assets (NGDA) Themes are Framework themes?
  
 
-What are the NSDI and the framework?
+What is the NSDI and the framework?
 ~~~~~~~~~~~~~~~~~~~
 The National Spatial Data Infrastructure (NSDI) is a means to assemble geographic data nationwide to serve a variety of users. The NSDI provides an environment within which organizations and technology interact to foster activities for using, managing, and producing geographic data.
 
