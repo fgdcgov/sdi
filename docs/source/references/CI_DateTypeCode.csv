@@ -1,5 +1,5 @@
 Code List,Code Space,Code Description
-adopted,ISO 19115,date identifies when resource was adopted
+adopted,:term:'ISO 19115',date identifies when resource was adopted
 creation,ISO 19115,date identifies when the resource was brought into existence
 deprecated,ISO 19115,date identifies when resource was deprecated
 distribution,ISO 19115,date identifies when an instance of the resource was distributed
