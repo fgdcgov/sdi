@@ -74,7 +74,7 @@ Contents
    Services
 
 .. toctree::
-   :maxdepth: 7
+   :maxdepth: 25
    :numbered:
    :caption: 📚 SDI RESOURCES
    
