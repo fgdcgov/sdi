@@ -8,6 +8,6 @@ This resource provides information on CI_Citation
 
 
 .. csv-table:: CI_DateTypeCode
-   :file: /references/iso/CI_DateTypeCode.csv
+   :file: /references/CI_DateTypeCode.csv
    :widths: 10, 30, 10
    :header-rows: 1

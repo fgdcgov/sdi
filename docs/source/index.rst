@@ -90,8 +90,7 @@ Contents
    /references/iso/faqs.rst
    /references/iso/isostandards.rst
    /references/iso/isotopics.rst
-   /references/iso/CI_DateTypeCode.rst
-   /references/iso/CI_Citation.cst
+   /references/CI_Citation.rst
 
    api
    usage
