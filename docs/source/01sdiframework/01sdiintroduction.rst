@@ -10,8 +10,6 @@ Introduction
 
 NSDI––A Place-Based National Framework for Insights, Intelligence and Knowledge
 
-.. cpp:enum:: MyEnum
-
     .. cpp:enumerator:: Our world is increasingly complex and interconnected. Humanity is challenged with understanding and adjusting to ever-changing economic, environmental, and social factors. Sustainable and innovative solutions depend on reliable information, understanding, and informed decision-making. 
 
 Geographic information is a universal language that helps us intuitively understand and interpret conditions, events, relationships, and patterns. It provides key information and context that helps define, influence, and guide our decisions and actions.
