@@ -19,17 +19,17 @@ Contents
    :numbered:
    :caption: ISO Standards
 
-   /references/iso/isointro
-   /references/iso/isoexpandeddefinitions
-   /references/iso/faqs
-   /references/iso/isostandards
-   /references/iso/isotopics
-   /references/iso/CI_DateTypeCode
+   /iso/isointro
+   /iso/isoexpandeddefinitions
+   /iso/faqs
+   /iso/isostandards
+   /iso/isotopics
+   /iso/CI_DateTypeCode
    
 .. toctree::
    :maxdepth: 10
    :numbered:
    :caption: ⚖️ OGC Standards
 
-   /references/isostandards
-   /references/iso/CI_DateTypeCode
+   /isostandards
+   /iso/CI_DateTypeCode
