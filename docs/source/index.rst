@@ -86,14 +86,12 @@ Contents
    /references/ogcstandards
    /references/standardsorganizations
    /references/gdaterms.rst
-   /references/iso/isoexpandeddefinitions.rst
-   /references/iso/faqs.rst
-   /references/iso/isostandards.rst
-   /references/iso/isotopics.rst
+   /references/isoexpandeddefinitions.rst
+   /references/isostandards.rst
+   /references/isotopics.rst
    /references/CI_Citation.rst
 
    api
    usage
-   /references/index.rst
-   /references/iso/isointro.rst
+   /references/isointro.rst
    /references/terms.rst
