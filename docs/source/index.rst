@@ -84,6 +84,7 @@ Contents
    /references/isostandards.rst
    /references/isotopics
    /references/ogcstandards
+   /references/about
    /references/standardsorganizations
    /references/gdaterms.rst
    /references/isoexpandeddefinitions.rst
