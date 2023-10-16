@@ -91,3 +91,4 @@ Contents
 
    api
    usage
+   /references/index.rst
