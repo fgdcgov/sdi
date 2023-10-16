@@ -19,24 +19,25 @@ Contents
 .. toctree::
    :maxdepth: 10
    :numbered:
-   :caption: General
+   :caption: ISO Standards
 
-   /references/acronyms
-   /references/termsanddefinitions
-   /references/gdaterms
+   /references/iso/isointro.rst
+   /references/iso/isoexpandeddefinitions.rst
+   /references/iso/faqs.rst
+   /references/iso/isostandards.rst
+   /references/iso/isotopics.rst
    
-
 .. toctree::
    :maxdepth: 10
    :numbered:
-   :caption: ⚖️ Standards
+   :caption: ⚖️ OGC Standards
 
    /references/isostandards
 
 .. toctree::
-   :maxdepth: 25
+   :maxdepth: 10
    :numbered:
-   :caption: 🤝 Organizations
+   :caption:  Organizations
    
    
 
