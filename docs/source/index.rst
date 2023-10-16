@@ -26,7 +26,6 @@ Contents
    /01sdiframework/02sdicomponents
    /01sdiframework/03sdientities
    /01sdiframework/04sdistandards
-   /01sdiframework/sdidefinitions
 
 .. toctree::
    :maxdepth: 10
@@ -87,14 +86,15 @@ Contents
    /references/ogcstandards
    /references/standardsorganizations
    /references/gdaterms.rst
-   /references/terms.rst
-   /references/iso/isointro.rst
    /references/iso/isoexpandeddefinitions.rst
    /references/iso/faqs.rst
    /references/iso/isostandards.rst
    /references/iso/isotopics.rst
    /references/iso/CI_DateTypeCode.rst
+   /references/iso/CI_Citation.cst
 
    api
    usage
    /references/index.rst
+   /references/iso/isointro.rst
+   /references/terms.rst

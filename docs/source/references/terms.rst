@@ -5,7 +5,7 @@
 
 SDI Terms and Definitions
 ======================
-.. csv-table:: Table Title
+.. csv-table:: SDI Terms and definitions
    :file: /references/termsanddefinitions.csv
    :widths: 10, 30, 10
    :header-rows: 1

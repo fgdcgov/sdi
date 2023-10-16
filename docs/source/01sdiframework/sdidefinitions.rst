@@ -6,4 +6,3 @@
 SDI Terms and Definitions
 ======================
 
-fgdcgov/Standards/docs/source/references/gdaterms

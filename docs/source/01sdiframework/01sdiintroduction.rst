@@ -8,7 +8,7 @@ SDI Directory
 Introduction
 ======================
 
-NSDI––A Place-Based National Framework for Insights, Intelligence and Knowledge
+NSDI – A Place-Based National Framework for Insights, Intelligence and Knowledge
 
 Our world is increasingly complex and interconnected. Humanity is challenged with understanding and adjusting to ever-changing economic, environmental, and social factors. Sustainable and innovative solutions depend on reliable information, understanding, and informed decision-making. 
 
