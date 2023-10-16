@@ -19,12 +19,12 @@ Contents
    :numbered:
    :caption: ISO Standards
 
-   /references/iso/isointro.rst
-   /references/iso/isoexpandeddefinitions.rst
-   /references/iso/faqs.rst
-   /references/iso/isostandards.rst
-   /references/iso/isotopics.rst
-   /references/iso/CI_DateTypeCode.rst
+   /references/iso/isointro
+   /references/iso/isoexpandeddefinitions
+   /references/iso/faqs
+   /references/iso/isostandards
+   /references/iso/isotopics
+   /references/iso/CI_DateTypeCode
    
 .. toctree::
    :maxdepth: 10
