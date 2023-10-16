@@ -10,7 +10,7 @@ ISO (International Organization for Standardization) has developed a set of stan
 
 .. glossary::
 
-    ISO 19110
+    **ISO 19110**
     -------------------------------
     ISO 19110 - Geographic Information - Methodology for Feature Cataloguing
 
