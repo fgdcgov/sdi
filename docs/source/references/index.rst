@@ -24,6 +24,7 @@ Contents
    /references/iso/faqs.rst
    /references/iso/isostandards.rst
    /references/iso/isotopics.rst
+   /references/iso/CI_DateTypeCode.rst
    
 .. toctree::
    :maxdepth: 10
