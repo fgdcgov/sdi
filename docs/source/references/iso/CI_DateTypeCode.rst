@@ -1,0 +1,17 @@
+Code List,Code Space,Code Description
+adopted,ISO 19115,date identifies when resource was adopted
+creation,ISO 19115,date identifies when the resource was brought into existence
+deprecated,ISO 19115,date identifies when resource was deprecated
+distribution,ISO 19115,date identifies when an instance of the resource was distributed
+expiry,ISO 19115,date identifies when resource expires
+inForce,ISO 19115,date identifies when resource became in force
+lastRevision,ISO 19115,date identifies when resource was last reviewed
+lastUpdate,ISO 19115,date identifies when resource was last updated
+nextUpdate,ISO 19115,date identifies when resource will be next updated
+publication,ISO 19115,date identifies when the resource was issued
+released,ISO 19115,the date that the resource shall be released for public access
+revision,ISO 19115,date identifies when the resource was examined or re-examined and improved or amended
+superseded,ISO 19115,date identifies when resource was superseded or replaced by another resource
+unavailable,ISO 19115,date identifies when resource became not available or obtainable
+validityBegins,ISO 19115,time at which the data are considered to become valid.
+validityExpires,ISO 19115,time at which the data are no longer considered to be valid
