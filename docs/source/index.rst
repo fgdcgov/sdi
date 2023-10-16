@@ -73,7 +73,7 @@ Contents
    Services
 
 .. toctree::
-   :maxdepth: 25
+   :maxdepth: 100
    :numbered:
    :caption: 📚 SDI RESOURCES
    
@@ -96,3 +96,4 @@ Contents
    usage
    /references/isointro.rst
    /references/terms.rst
+   /references/about.rst
