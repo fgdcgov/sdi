@@ -12,3 +12,10 @@ This resource provides acronyms frequently utilized by the FGDC.
    :widths: 10, 30
    :header-rows: 1
 
+
+
+.. seealso::
+
+   :doc:`/references/isostandards`.
+
+
