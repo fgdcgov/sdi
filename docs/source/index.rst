@@ -88,6 +88,12 @@ Contents
    /references/standardsorganizations
    /references/gdaterms.rst
    /references/terms.rst
+   /references/iso/isointro.rst
+   /references/iso/isoexpandeddefinitions.rst
+   /references/iso/faqs.rst
+   /references/iso/isostandards.rst
+   /references/iso/isotopics.rst
+   /references/iso/CI_DateTypeCode.rst
 
    api
    usage
