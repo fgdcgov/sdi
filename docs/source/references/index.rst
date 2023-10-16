@@ -32,3 +32,4 @@ Contents
    :caption: ⚖️ OGC Standards
 
    /references/isostandards
+   /references/iso/CI_DateTypeCode
