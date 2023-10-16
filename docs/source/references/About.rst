@@ -1,6 +1,6 @@
 
 Dialog Boxes on pages 
-#####################
+-------------------------------
 
 What do the dialog boxes mean? 
 
