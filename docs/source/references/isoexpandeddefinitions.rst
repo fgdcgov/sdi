@@ -1,5 +1,6 @@
 ISO Expanded Definitions
-========================
+###################
+
 ISO (International Organization for Standardization) has developed a set of standards related to metadata, which are known as ISO Elements metadata standards. These standards provide guidelines and best practices for creating and managing metadata for various purposes, including data interchange, information retrieval, and data preservation. Here are some of the ISO metadata standards:
 
 .. note:: 
@@ -10,7 +11,7 @@ ISO (International Organization for Standardization) has developed a set of stan
 .. glossary::
 
     ISO 19110
-    ----------
+    -------------------------------
     ISO 19110 - Geographic Information - Methodology for Feature Cataloguing
 
         ISO 19110 standardizes the metadata related to geographic features, helping to describe the characteristics of geographic objects like roads, buildings, and land parcels.
