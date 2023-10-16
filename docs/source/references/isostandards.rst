@@ -1,7 +1,7 @@
 ISO Geospatial Standards
 -------------------------------
 
-This resource provides a list of the ISO Geographic information/Geomatics standards and the current status of each of the standards.
+This resource provides a list of the ISO Geographic Information/Geomatics standards and the current status of each of the standards.
 
 .. note:: 
 
