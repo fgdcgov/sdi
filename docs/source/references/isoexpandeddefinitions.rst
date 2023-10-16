@@ -7,7 +7,7 @@ ISO (International Organization for Standardization) has developed a set of stan
    This resource is being actively developed. The list may not be comprehensive at this time.
 
 
-..glossary::
+.. glossary::
 
     ISO 19110 - Geographic Information - Methodology for Feature Cataloguing
 
