@@ -87,12 +87,7 @@ Contents
    /references/about
    /references/standardsorganizations
    /references/gdaterms.rst
-   /references/isoexpandeddefinitions.rst
-   /references/isostandards.rst
-   /references/isotopics.rst
-   /references/CI_Citation.rst
-   /references/isoexpandeddefinitions.rst
-   /references/iso/
+   
 
    api
    usage

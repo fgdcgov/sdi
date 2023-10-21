@@ -15,7 +15,7 @@ This directory is a collaborative project to bring together SDI information to a
 Contents
 --------
 .. toctree::
-   :maxdepth: 10
+   :maxdepth: 20
    :numbered:
    :caption: ISO Standards
 
@@ -27,7 +27,12 @@ Contents
    /iso/CI_DateTypeCode
    /iso/iso3166countrycodes
    /iso/iso10241terms
-   
+   /iso/isoexpandeddefinitions.rst
+   /iso/isostandards.rst
+   /iso/isotopics.rst
+   /iso/CI_Citation.rst
+   /iso/isoexpandeddefinitions.rst
+
    
 .. toctree::
    :maxdepth: 10
