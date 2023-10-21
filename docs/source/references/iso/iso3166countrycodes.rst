@@ -18,7 +18,7 @@ List of Country Codes
 
 
 .. csv-table:: Frequntly used abbreviated terms
-   :file: /references/iso3166countrycodes.csv
+   :file: /references/iso/iso3166countrycodes.csv
    :widths: 10, 10, 10, 10, 10,10
    :header-rows: 1
 
