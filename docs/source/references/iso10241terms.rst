@@ -1,25 +1,6 @@
 Option Lists
 ------------
 
-For listing command-line options:
-
--a            command-line option "a"
--b file       options can have arguments
-              and long descriptions
---long        options can be long also
---input=file  long options can also have
-              arguments
-
---very-long-option
-              The description can also start on the next line.
-
-              The description may contain multiple body elements,
-              regardless of where it starts.
-
--x, -y, -z    Multiple options are an "option group".
--v, --verbose  Commonly-seen: short & long options.
--1 file, --one=file, --two file
-              Multiple options with arguments.
-/V            DOS/VMS-style options too
-
-There must be at least two spaces between the option and the description.
+:ISO NUMBER:  ISO 10241  
+:TITLE:  Terminological entries in standards
+:DESCRIPTION:  ISO 10241-2:2012 addresses the introduction of standardized terminological entries into other cultural and linguistic environments, and in particular the adoption of internationally standardized terminological entries by regional and national standardizing bodies. It establishes principles and guidelines for dealing with the key issues to be considered in this process.						
