@@ -25,6 +25,8 @@ Contents
    /iso/isostandards
    /iso/isotopics
    /iso/CI_DateTypeCode
+   /iso/iso3166countrycodes
+   /iso/iso1
    
 .. toctree::
    :maxdepth: 10
