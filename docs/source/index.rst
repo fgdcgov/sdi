@@ -92,6 +92,7 @@ Contents
    /references/isotopics.rst
    /references/CI_Citation.rst
    /references/isoexpandeddefinitions.rst
+   /references/iso/
 
    api
    usage
