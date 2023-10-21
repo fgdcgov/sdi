@@ -25,13 +25,13 @@ Contents
    /iso/isostandards
    /iso/isotopics
    /iso/CI_DateTypeCode
-   /iso/iso3166countrycodes
-   /iso/iso10241terms
+   iso3166countrycodes
+   iso10241terms
    /iso/isoexpandeddefinitions.rst
    /iso/isostandards.rst
    /iso/isotopics.rst
-   /iso/CI_Citation.rst
-   /iso/isoexpandeddefinitions.rst
+   CI_Citation.rst
+   isoexpandeddefinitions.rst
 
    
 .. toctree::
