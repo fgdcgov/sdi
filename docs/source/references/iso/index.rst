@@ -19,18 +19,19 @@ Contents
    :numbered:
    :caption: ISO Standards
 
-   /iso/isointro
-   /iso/isoexpandeddefinitions
-   /iso/faqs
-   /iso/isostandards
-   /iso/isotopics
-   /iso/CI_DateTypeCode
+   isointro
+   isostandards
+   isoexpandeddefinitions
+   faqs
+   isotopics
+   CI_DateTypeCode.rst
+   CI_Citation.rst
    iso3166countrycodes
    iso10241terms
    /iso/isoexpandeddefinitions.rst
    /iso/isostandards.rst
    /iso/isotopics.rst
-   CI_Citation.rst
+   
    isoexpandeddefinitions.rst
 
    
