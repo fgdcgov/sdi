@@ -13,6 +13,7 @@ Metadata is information about data. Similar to a library catalog record, metadat
 
 
 ABOUT GEOSPATIAL METADATA
+=============
 
 The basics of metadata
 Geospatial Metadata Fact Sheet (pdf)
@@ -30,7 +31,9 @@ FGDC Metadata Working Group (MWG)
 International Geospatial Metadata Listserver
 ISO Metadata Implementation Webinar (2013)
 FGDC Metadata Summit (2011)
+
 GEOSPATIAL METADATA STANDARDS AND GUIDELINES
+===========
 Specifications for formatting and populating your metadata
 Geospatial Metadata Standards: ISO 191** metadata series and FGDC CSDGM
 Selecting A Geospatial Metadata Standard
