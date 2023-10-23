@@ -52,6 +52,8 @@ Contents
    :numbered:
    :caption: 🔌 FGDC STANDARDS
    
+  
+   /references/standardsfgdc.rst 
    /data/datastandards
 
    Data Themes
