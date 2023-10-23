@@ -34,10 +34,11 @@ FGDC Metadata Summit (2011)
 
 GEOSPATIAL METADATA STANDARDS AND GUIDELINES
 ===========
-Specifications for formatting and populating your metadata
-Geospatial Metadata Standards: ISO 191** metadata series and FGDC CSDGM
-Selecting A Geospatial Metadata Standard
-FGDC Technical Guidance: Data.gov and The GeoPlatform Metadata Recommendations Including Guidelines for National Geospatial Data Assets (NGDA) (pdf), updated December 6, 2022  – This document provides best practices only and is not intended as policy that agencies must comply with, or for audit purposes.
+
+- Specifications for formatting and populating your metadata
+- Geospatial Metadata Standards: ISO 191** metadata series and FGDC CSDGM
+- Selecting A Geospatial Metadata Standard
+- FGDC Technical Guidance: Data.gov and The GeoPlatform Metadata Recommendations Including -pGuidelines for National Geospatial Data Assets (NGDA) (pdf), updated December 6, 2022  – This document provides best practices only and is not intended as policy that agencies must comply with, or for audit purposes.
 
 LEARNING RESOURCES
 ==========
