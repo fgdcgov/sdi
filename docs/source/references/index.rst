@@ -3,7 +3,7 @@
    :description: Provides an introduction to the United States National Spatial Data Infrastructure
    :keywords: NSDI, Place-Based, SDI, GSDI, Geographic, Evidence-Based, Geospatial, GDA, NGDA, Geospatial Data Act, OGC, ISO, ANSI
 
-Standards Resources!
+SDI Standards Resources
 ===================================
 
 This directory is a collaborative project to bring together SDI information to advance national, regional and global SDI's.  
