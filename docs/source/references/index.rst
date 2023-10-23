@@ -14,6 +14,14 @@ This directory is a collaborative project to bring together SDI information to a
 
 Contents
 --------
+
+.. toctree::
+   :maxdepth: 10
+   :numbered:
+   :caption: FGDC Standards
+
+   /references/standardsfgdc.rst
+
 .. toctree::
    :maxdepth: 10
    :numbered:
