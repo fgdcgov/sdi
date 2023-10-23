@@ -1,5 +1,9 @@
 
+FGDC | NSDI | METADATA STANDARDS
+##########
+
 INTRODUCTION
+============
 
 Metadata is information about data. Similar to a library catalog record, metadata records document the who, what, when, where, how, and why of a data resource. Geospatial metadata describes maps, Geographic Information Systems (GIS) files, imagery, and other location-based data resources. The Geospatial Data Act of 2018 tasks the FGDC to enable access (see GeoPlatform.gov) to National Spatial Data Infrastructure (NSDI) resources and lead the the creation, management, and maintenance of the metadata required to fuel data discovery and access. 
 
