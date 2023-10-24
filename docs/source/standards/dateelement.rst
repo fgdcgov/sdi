@@ -1,6 +1,7 @@
-Date Elements 
+Glossary : Date Elements 
 ======================
 
+Provides a glossary of terms that are linkable.
 
 .. glossary::
 
