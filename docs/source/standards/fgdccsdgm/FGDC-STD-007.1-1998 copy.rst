@@ -74,10 +74,12 @@ ISO Standard 15046-13, Geographic Information - Quality Principles defines a dat
 ISO Standard 15046-14, Geographic Information - Quality  - Evaluation Procedures provides data quality evaluation models for both data producers and data users.   The procedures are used to determine data quality results consistent with the data quality model defined by ISO Standard 15046-13.   They establish a framework to report data quality results in metadata and when necessary, in a separate data quality report.
 
 1.1.5 Standards Development Procedures
+-------------------------------
 
 Part 2, Standards for Geodetic Networks and Part 3, National Standard for Spatial Data Accuracy (NSSDA) were originally developed independently.   Following the first public review of the NSSDA, in its previous version as National Cartographic Standards for Spatial Accuracy, the NSSDA was aligned with emerging standards from the Federal Geodetic Control Subcommittee (FGCS).   The FGCS has broad participation from various Federal agencies.  Noting how individual FGDC subcommittees and working groups were developing accuracy standards, the FGCS membership agreed to sponsor an FGDC standards project to compile the various accuracy standards into one document and minimize redundancies.   The FGDC Standards Working  Group has endorsed this approach.   This is the first FGDC standards project to integrate standards for various data themes and applications."
 
 1.1.6 Maintenance Authority
+-------------------------------
 
 The U.S. Department of Commerce, National Oceanic and Atmospheric Administration,
 National Ocean Service, National Geodetic Survey, maintains Part 1, Reporting Methodology,
