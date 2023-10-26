@@ -5,7 +5,7 @@
 
 
 FGDC-STD-007.2-1998 Standards for Geodetic Networks 
-======================
+-------------------------------
 
 Geospatial Positioning Accuracy Standards, Part 2: Standards for Geodetic Networks
 
