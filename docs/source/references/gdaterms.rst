@@ -30,7 +30,7 @@ This table provides a list of terms provided in the Geospatial Data Act of 2018
         classified national security-related geospatial data and activities of the Department of Energy, unless declassified; geospatial data and activities under chapter 22 of title 10, United States Code, or section 110 of the National Security Act of 1947 (50 U.S.C. 3045);
         intelligence geospatial data and activities, as determined by the Director of National Intelligence; or certain declassified national security-related geospatial data and activities of the intelligence community, as determined by the Secretary of Defense, the Secretary of Energy, or the Director of National Intelligence;
     * - Indian Tribe
-      - the term Indian tribe has the meaning given that term under section 4 of the Indian Self- Determination and Education Assistance Act (25 U.S.C. 450b);
+      - the term Indian tribe has the meaning given that term under section 4 of the Indian Self- Self-Determination and Education Assistance Act (25 U.S.C. 450b);
     * - Institution of Higher Education
       - the term institution of higher education has the meaning given that term under section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002);
     * - Intelligence Community
