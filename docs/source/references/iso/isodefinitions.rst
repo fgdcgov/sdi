@@ -23,11 +23,11 @@ Reference Details
 | Last Update    | 2023-10-26                                                      |             
 +----------------+-----------------------------------------------------------------+
 
-.. Note 
+.. Note:: 
 
    The ISO/TC 211 Multi-Lingual Glossary of Terms has been compiled from International Standards developed by ISO/TC 211. Its purpose is to encourage consistency in the use and interpretation of geospatial terms. It is being made freely available to all interested people and organizations.
 
-.. Warning
+.. Important::
 
    The ISO source references provided in this glossary are for reference only.  Notation of an ISO standard in this glossary does not constitute or imply endorsement. Adoption of ISO standards on a National basis must comply with national, statutory, regulatory, and or other guidance.
 
