@@ -1,7 +1,38 @@
+.. meta::
+   :title: Voyager Search | Reference | List of Satellites
+   :description: Reference Resource | Provides a list of satellites
+   :keywords: terms, term, reference, reference resource, satellite, satellites, instrument
+
+Reference | ISO Definitions
+-------------------------------
+
+This reference resource provides a listing of space-based remote sensing platforms. 
+
+Reference Details
+-----------
+
++----------------+-----------------------------------------------------------------+
+| TITLE          | List of ISO Definitions                                         |                    
++================+=================================================================+
+| DESCRIPTION    | This glossary of terms and definitions is provided as a         |
+|                | reference to commonly utilized terms in the ISO community.      |
++----------------+-----------------------------------------------------------------+
+| Data Source    | OSCAR Observing Systems Capability Analysis and Review Tool     |
+|                | https://committee.iso.org/sites/tc211/home/re.html              |
++----------------+-----------------------------------------------------------------+
+| Last Update    | 2023-10-26                                                      |             
++----------------+-----------------------------------------------------------------+
+
+.. Note 
+
+   The ISO/TC 211 Multi-Lingual Glossary of Terms has been compiled from International Standards developed by ISO/TC 211. Its purpose is to encourage consistency in the use and interpretation of geospatial terms. It is being made freely available to all interested people and organizations.
+
+.. Warning
+
+   The ISO source references provided in this glossary are for reference only.  Notation of an ISO standard in this glossary does not constitute or imply endorsement. Adoption of ISO standards on a National basis must comply with national, statutory, regulatory, and or other guidance.
 
 
-
-ISO Definitions
+Reference Definitions
 --------------
 
 ISO (International Organization for Standardization) has developed a set of standards related to metadata, which are known as ISO Elements metadata standards. These standards provide guidelines and best practices for creating and managing metadata for various purposes, including data interchange, information retrieval, and data preservation. Here are some of the ISO metadata standards:
