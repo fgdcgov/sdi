@@ -52,12 +52,10 @@ Contents
    :numbered:
    :caption: 🔌 FGDC STANDARDS
    
-  
+
    /references/standardsfgdc.rst 
    /data/datastandards
 
-   Data Themes
-   ---------
    /standards/FGDC-STD-006
    /standards/FGDC-STD-007.2-1998
    /standards/FGDC-STD-007.4-2002
