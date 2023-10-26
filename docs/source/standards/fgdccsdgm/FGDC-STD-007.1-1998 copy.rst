@@ -51,14 +51,14 @@ Part 5, NAVIGATION CHARTS AND HYDROGRAPHIC SURVEYS.
 
 This part will specify minimum standards for hydrographic surveys so that hydrographic (sounding) data are sufficiently accurate and spatial uncertainty is adequately quantified for safe use  by mariners.  The accuracy of hydrographic surveying is highly dependent upon knowledge of tidal datum planes and the special accuracy requirements to support safe navigation.  This part will provide a standardized methodology for evaluating survey data and reporting resultant data quality through a standard statistical approach. It will be based on the recently revised International Hydrographic Organization (IHO) Standard for Hydrographic Surveys, which is in the final stages of review by the international community.    The lead agency is Department of Commerce, National Oceanic and Atmospheric Administration, National Ocean Service, Office of the Coast Survey.  The responsible FGDC subcommittee is the Bathymetric and Nautical Chart Subcommittee.
 
-1.1.3      Applicability
+1.1.3 Applicability
 -------------------------------
 
 Use Geospatial Positioning Accuracy Standards to evaluate and report the positional accuracy of spatial data produced, revised, or disseminated by or for the Federal Government.  According to Executive Order 12906,  Coordinating Geographic Data Acquisition and Access: the National Spatial Data Infrastructure (Clinton, 1994, Sec. 4. Data Standards Activities, item d), “Federal agencies collecting or producing geospatial data, either directly or indirectly  (e.g. through
 
 grants, partnerships, or contracts with other entities), shall ensure, prior to obligating funds for such activities, that data will be collected in a manner that meets all relevant standards adopted through the FGDC process.”
 
-1.1.4      Related Standards
+1.1.4 Related Standards
 -------------------------------
 
 1.1.4.1   FGDC Standards
@@ -67,13 +67,13 @@ The Spatial Data Transfer Standard (SDTS) (ANSI-NCITS, 1998) specifies that a da
 
 Part 2, Data Quality Information, of Content Standards for Digital Geospatial Metadata (Federal Geographic Data Committee, 1998) adopts the five elements of data quality specified by SDTS. Consequently, positional accuracy reported according to Geospatial Positioning Accuracy Standards will be encoded in Metadata.
 
-1.1.4.2   ISO Technical Committee (TC) 211 Geographic Information/Geomatics Standards
+1.1.4.2 ISO Technical Committee (TC) 211 Geographic Information/Geomatics Standards
 
 ISO Standard 15046-13, Geographic Information - Quality Principles defines a data quality model and identifies  positional accuracy as a data quality element and various subelements of positional accuracy.   It provides a means of measuring how well the data set maps geospatial phenomena according to its product specification.
 
 ISO Standard 15046-14, Geographic Information - Quality  - Evaluation Procedures provides data quality evaluation models for both data producers and data users.   The procedures are used to determine data quality results consistent with the data quality model defined by ISO Standard 15046-13.   They establish a framework to report data quality results in metadata and when necessary, in a separate data quality report.
 
-1.1.5      Standards Development Procedures
+1.1.5 Standards Development Procedures
 
 Part 2, Standards for Geodetic Networks and Part 3, National Standard for Spatial Data Accuracy (NSSDA) were originally developed independently.   Following the first public review of the NSSDA, in its previous version as National Cartographic Standards for Spatial Accuracy, the NSSDA was aligned with emerging standards from the Federal Geodetic Control Subcommittee (FGCS).   The FGCS has broad participation from various Federal agencies.  Noting how individual FGDC subcommittees and working groups were developing accuracy standards, the FGCS membership agreed to sponsor an FGDC standards project to compile the various accuracy standards into one document and minimize redundancies.   The FGDC Standards Working  Group has endorsed this approach.   This is the first FGDC standards project to integrate standards for various data themes and applications."
 
