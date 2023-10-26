@@ -19,6 +19,14 @@ extensions = [
     'sphinx.ext.intersphinx',
 ]
 
+# Values of the intersphinx_mapping keys that you want to enable hoverxref on
+hoverxref_intersphinx = [
+   "astropy",
+   "numpy",
+   "scipy",
+   "matplotlib",
+]
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
