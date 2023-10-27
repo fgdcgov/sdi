@@ -10,9 +10,8 @@ ISO (International Organization for Standardization) has developed a set of stan
 
 .. glossary::
 
-    **ISO 19110**
-    -------------------------------
-    ISO 19110 - Geographic Information - Methodology for Feature Cataloguing
+    ISO 19110
+        ISO 19110 - Geographic Information - Methodology for Feature Cataloguing
 
         ISO 19110 standardizes the metadata related to geographic features, helping to describe the characteristics of geographic objects like roads, buildings, and land parcels.
 
