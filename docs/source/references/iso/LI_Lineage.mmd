@@ -1,0 +1,42 @@
+erDiagram
+%% use this link to find the standard 
+%%https//schemas.isotc211.org/19115/-3/mrl/2.0/
+%% https//schemas.isotc211.org/19115/-3/mrl/2.0/mrl/#element_LE_Algorithm
+
+%% Identify the first level hierarchy
+MR_Metadata
+MR_Metadata ||--|{ResourceLineage : "has"
+
+%% Identify the second level hierarchy
+
+ResourceLineage
+
+    ResourceLineage ||--|{LE_Processing : "has"
+    ResourceLineage ||--|{LI_Lineage : "has"
+    ResourceLineage ||--|{LI_Source : "has"
+    ResourceLineage ||--|{LI_ProcessStep : "has"
+    ResourceLineage ||--|{LE_Processing : "has"
+    
+    LE_Processing
+    LI_ProcessStep {
+        description CharacterString(m)
+        processor  CI_Responsibility
+        rationale CharacterString
+        reference CI_Citation
+        scope MD_Scope
+        stepDateTime TM_Primitive
+    }
+    LI_Source {
+        description CharacterString 
+        scope MD Scope
+        sourceCitation CI_Citation
+        sourceMetadata CI_Citation
+        sourceReferenceSystem MD_ ReferenceSystem
+        sourceSpatialResolution MD_Resolution
+    }
+    LI_Lineage {
+        additionalDocumentation CI_Citation
+        scope MD_Scope 
+        statement CharacterString 
+    }
+    
