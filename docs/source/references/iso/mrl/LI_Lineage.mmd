@@ -1,17 +1,14 @@
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#BB2528',
-      'primaryTextColor': '#fff',
-      'primaryBorderColor': '#7C0000',
-      'lineColor': '#F8B229',
-      'secondaryColor': '#006100',
-      'tertiaryColor': '#fff',
-      'noteTextColor': '#000'
-    }
-  }
-}%%
+%%{init: {
+  "theme": "default",
+  "themeCSS": [
+    ".er.relationshipLabel { fill: black; }", 
+    ".er.relationshipLabelBox { fill: white; }", 
+    ".er.entityBox { fill: lightgray; }",
+    "[id^=entity-some] .er.entityBox { fill: lightgreen;} ",
+    "[id^=entity-mytable] .er.entityBox { fill: powderblue;} ",
+    "[id^=entity-anothertable] .er.entityBox { fill: pink;} "
+    ]
+}}%%
 erDiagram
 %% use this link to find the standard 
 %%https//schemas.isotc211.org/19115/-3/mrl/2.0/
